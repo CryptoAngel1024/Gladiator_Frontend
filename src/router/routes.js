@@ -24,14 +24,14 @@ export default [
     path: '/:department/overview',
     redirect: { name: 'overview-users' },
   },
-  {
-    path: '/:department/overview/users',
-    name: 'overview-users',
-    component: () => import('@/views/home/GraphChart.vue'),
-    meta: {
-      title: 'Overview - Users',
-    },
-  },
+  // {
+  //   path: '/:department/overview/users',
+  //   name: 'overview-users',
+  //   component: () => import('@/views/home/GraphChart.vue'),
+  //   meta: {
+  //     title: 'Overview - Users',
+  //   },
+  // },
   {
     path: '/:department/overview/new-users',
     name: 'overview-newusers',
