@@ -3,19 +3,19 @@ import { getUserInfo } from '@/api/pingIdAuth.js'
 import { defaultEmailBody } from '@/data/defaultSetting.js'
 import { gaEvent } from '@/utils/GA_Event.js'
 
-// const getDefaultState = () => {
-//   return {
-//     emailBody: '',
-//     firstName: '',
-//     lastName: '',
-//     email: '',
-//     userName: '',
-//     userType: '',
-//     department: '',
-//     currentDepartment: '',
-//     id: '',
-//   }
-// }
+const getDefaultState = () => {
+  return {
+    emailBody: '',
+    firstName: '',
+    lastName: '',
+    email: '',
+    userName: '',
+    userType: '',
+    department: '',
+    currentDepartment: '',
+    id: '',
+  }
+}
 
 export default {
   state: () => ({
