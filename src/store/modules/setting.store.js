@@ -55,21 +55,21 @@ export default {
     getLastName(state) {
       return state.lastName
     },
-    // getEmail(state) {
-    //   return state.email
-    // },
-    // getUsername(state) {
-    //   return state.userName
-    // },
-    // getUserType(state) {
-    //   return state.userType
-    // },
-    // getDepartment(state) {
-    //   return state.department
-    // },
-    // getCurrentDepartment(state) {
-    //   return state.currentDepartment || state.department
-    // },
+    getEmail(state) {
+      return state.email
+    },
+    getUsername(state) {
+      return state.userName
+    },
+    getUserType(state) {
+      return state.userType
+    },
+    getDepartment(state) {
+      return state.department
+    },
+    getCurrentDepartment(state) {
+      return state.currentDepartment || state.department
+    },
     defaultEmailBody(state, getters, rootState, rootGetters) {
       return defaultEmailBody({ ...state, email: rootGetters['auth/email'] })
     },
