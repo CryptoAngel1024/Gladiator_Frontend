@@ -109,91 +109,91 @@ export default {
       state.currentDepartment = department
     },
   },
-  actions: {
-    async fetchUser(
-      { state, commit, dispatch, rootGetters, getters },
-      refetchIfExists = true,
-    ) {
-      gaEvent({
-        action: 'fetch-user',
-        event_category: 'settting',
-        event_label: 'User-fetch-user',
-      })
+  // actions: {
+  //   async fetchUser(
+  //     { state, commit, dispatch, rootGetters, getters },
+  //     refetchIfExists = true,
+  //   ) {
+  //     gaEvent({
+  //       action: 'fetch-user',
+  //       event_category: 'settting',
+  //       event_label: 'User-fetch-user',
+  //     })
 
-      try {
-        if (!refetchIfExists && state.email) return state
+  //     try {
+  //       if (!refetchIfExists && state.email) return state
 
-        const { err } = await dispatch(
-          'auth/fetchUserDetail',
-          refetchIfExists,
-          {
-            root: true,
-          },
-        )
-        if (err) throw err
+  //       const { err } = await dispatch(
+  //         'auth/fetchUserDetail',
+  //         refetchIfExists,
+  //         {
+  //           root: true,
+  //         },
+  //       )
+  //       if (err) throw err
 
-        const { userDetail } = await getUserInfo()
+  //       const { userDetail } = await getUserInfo()
 
-        commit('setUser', userDetail || getDefaultState())
+  //       commit('setUser', userDetail || getDefaultState())
 
-        return userDetail || getDefaultState()
-      } catch (err) {
-        const errStatus = err.response?.status || err.status
+  //       return userDetail || getDefaultState()
+  //     } catch (err) {
+  //       const errStatus = err.response?.status || err.status
 
-        if (err.message === 'User Is already Fetched') {
-          return state
-        } else if (errStatus === 404 || errStatus === 400) {
-          const userDetail = rootGetters['auth/userDetail']
+  //       if (err.message === 'User Is already Fetched') {
+  //         return state
+  //       } else if (errStatus === 404 || errStatus === 400) {
+  //         const userDetail = rootGetters['auth/userDetail']
 
-          const department = getters.getCurrentDepartment
+  //         const department = getters.getCurrentDepartment
 
-          const createdUser = await createUser(
-            {
-              email: userDetail.email,
-              firstName: state.firstName,
-              lastName: state.lastName,
-              emailBody: state.emailBody || getters.defaultEmailBody,
-            },
-            department,
-          )
+  //         const createdUser = await createUser(
+  //           {
+  //             email: userDetail.email,
+  //             firstName: state.firstName,
+  //             lastName: state.lastName,
+  //             emailBody: state.emailBody || getters.defaultEmailBody,
+  //           },
+  //           department,
+  //         )
 
-          commit('setUser', createdUser)
+  //         commit('setUser', createdUser)
 
-          return createdUser
-        }
+  //         return createdUser
+  //       }
 
-        throw err
-      }
-    },
-    async updateUser(
-      { state, commit, getters, rootGetters },
-      { firstName, lastName, emailBody, department },
-    ) {
-      gaEvent({
-        action: 'update-user',
-        event_category: 'settting',
-        event_label: 'User-update-user',
-      })
-      try {
-        const userDetail = rootGetters['auth/userDetail']
+  //       throw err
+  //     }
+  //   },
+  //   async updateUser(
+  //     { state, commit, getters, rootGetters },
+  //     { firstName, lastName, emailBody, department },
+  //   ) {
+  //     gaEvent({
+  //       action: 'update-user',
+  //       event_category: 'settting',
+  //       event_label: 'User-update-user',
+  //     })
+  //     try {
+  //       const userDetail = rootGetters['auth/userDetail']
 
-        const currentDepartment = getters.getCurrentDepartment
+  //       const currentDepartment = getters.getCurrentDepartment
 
-        const updatedUser = await updateUser({
-          email: state.email || userDetail.email,
-          emailBody: emailBody || state.emailBody || getters.defaultEmailBody,
-          firstName: firstName || state.firstName,
-          id: state.id,
-          lastName: lastName || state.lastName,
-          department: department || state.department || currentDepartment,
-        })
-        commit('setUser', updatedUser)
+  //       const updatedUser = await updateUser({
+  //         email: state.email || userDetail.email,
+  //         emailBody: emailBody || state.emailBody || getters.defaultEmailBody,
+  //         firstName: firstName || state.firstName,
+  //         id: state.id,
+  //         lastName: lastName || state.lastName,
+  //         department: department || state.department || currentDepartment,
+  //       })
+  //       commit('setUser', updatedUser)
 
-        return updatedUser
-      } catch (err) {
-        console.error(err.response || err)
-        throw err
-      }
-    },
-  },
+  //       return updatedUser
+  //     } catch (err) {
+  //       console.error(err.response || err)
+  //       throw err
+  //     }
+  //   },
+  // },
 }
