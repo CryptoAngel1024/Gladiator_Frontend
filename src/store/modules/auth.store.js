@@ -81,10 +81,10 @@ export default {
         event_label: 'User-fetch-user-detail',
       })
       try {
-        // if (!updateIfExists) {
-        //   const email = state.userDetail?.email
-        //   if (email) return { userDetail: state.userDetail }
-        // }
+        if (!updateIfExists) {
+          const email = state.userDetail?.email
+          if (email) return { userDetail: state.userDetail }
+        }
 
         const userDetail = await currentAuthenticatedUser()
 
