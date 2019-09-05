@@ -1,0 +1,26 @@
+{
+  "clientName": "string",
+  "createdDate": "string",
+  "hyperLink": "string",
+  "id": "string",
+  "linkName": "string",
+  "linkType": "string",
+  "passCode": "string",
+  "presentationId": "string",
+  "slides": [
+    {
+      "customSlideType": "string",
+      "isEnabled": true,
+      "pageNumber": 0,
+      "prePopulatedSlide": "string",
+      "slideCategory": "string",
+      "slideContent": "string",
+      "slideInfoId": "string",
+      "slideType": "string",
+      "version": 0
+    }
+  ],
+  "updatedDate": "string",
+  "viewCount": 0,
+  "department": "TRAUMA"
+}

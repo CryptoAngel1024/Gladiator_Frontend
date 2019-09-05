@@ -1,0 +1,57 @@
+[
+  {
+    "notificationId": "11f526b3-9491-4ef8-942b-2d9798b64ec2",
+    "subject": "new Activity on new cust3",
+    "body": "has viewed new cust3",
+    "department": "TRAUMA",
+    "isViewed": false,
+    "createdDate": "2021-12-22",
+    "notificationType": "RFP",
+    "id": "34b28dfc-3488-4b24-b72f-88f831c7c1b2",
+    "userAwsId": "us-east-1:f6e18e2e-e535-4e44-9c2e-97381d06e83e"
+  },
+  {
+    "notificationId": "dba58906-1ac3-4d1b-b761-6a4cb13b4d9d",
+    "subject": "new Activity on new cust3",
+    "body": " has viewed new cust3",
+    "department": "TRAUMA",
+    "isViewed": false,
+    "createdDate": "2021-12-21",
+    "notificationType": "RFP",
+    "id": "34b28dfc-3488-4b24-b72f-88f831c7c1b2",
+    "userAwsId": "us-east-1:f6e18e2e-e535-4e44-9c2e-97381d06e83e"
+  },
+  {
+    "notificationId": "5aba6c99-def4-43be-bd9b-9f67adce1952",
+    "subject": " has invited you to view test3453",
+    "body": "lorum impsum sin dis hiklop",
+    "department": "TRAUMA",
+    "isViewed": false,
+    "createdDate": "2021-12-25",
+    "notificationType": "RFP",
+    "id": "ea184e70-0659-4bc1-b01e-0f886b67ec54",
+    "userAwsId": "us-east-1:f6e18e2e-e535-4e44-9c2e-97381d06e83e"
+  },
+  {
+    "notificationId": "0dbd33d5-08c1-47b2-ac95-478ce46f58c5",
+    "subject": "new Activity on new cust3",
+    "body": " has viewed new cust3",
+    "department": "TRAUMA",
+    "isViewed": false,
+    "createdDate": "2021-12-27",
+    "notificationType": "RFP",
+    "id": "34b28dfc-3488-4b24-b72f-88f831c7c1b2",
+    "userAwsId": "us-east-1:f6e18e2e-e535-4e44-9c2e-97381d06e83e"
+  },
+  {
+    "notificationId": "abc947e5-00fc-4ee8-bdce-3907de751a14",
+    "subject": "new Activity on new cust3",
+    "body": " has viewed new cust3",
+    "department": "TRAUMA",
+    "isViewed": false,
+    "createdDate": "2021-12-26",
+    "notificationType": "RFP",
+    "id": "34b28dfc-3488-4b24-b72f-88f831c7c1b2",
+    "userAwsId": "us-east-1:f6e18e2e-e535-4e44-9c2e-97381d06e83e"
+  }
+]

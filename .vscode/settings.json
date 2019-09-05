@@ -1,0 +1,38 @@
+{
+  "eslint.validate": ["vue", "javascript"],
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "css.validate": false,
+  // the default StyleLint is checking way too much, so silence all that
+  "stylelint.validate": ["css", "postcss", "vue"],
+  "sonarlint.connectedMode.connections.sonarqube": [
+    {
+      "serverUrl": "https://sonar.eat.jnj.com"
+      // "token": "<generated from SonarQube account/security page>"
+    }
+  ],
+  "sonarlint.connectedMode.project": {
+    "projectKey": "com.jnj.gladiator.frontend"
+  },
+  "emmet.includeLanguages": {
+    "postcss": "css"
+  },
+  "files.exclude": {
+    "**/node_modules": true,
+    "dist": true
+  },
+  "jest.jestCommandLine": "npm run test:file --",
+  "jest.autoRun": { "watch": false, "onSave": "test-only" },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}

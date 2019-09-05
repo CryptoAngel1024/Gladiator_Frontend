@@ -1,0 +1,4 @@
+- service: eat-jenkins    # Name of the service subscription
+  teamKey: jadi           # EAT Jenkins Team Key for the given Jenkins instance (ie. TABC)
+  jenkinsType: dev        # EAT Jenkins Type. Supported values: dev, release
+  environment: Production # Automation Pipelines execution environment. Supported values: Production, Beta

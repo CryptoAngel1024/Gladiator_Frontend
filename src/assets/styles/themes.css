@@ -1,0 +1,9 @@
+body,
+.theme-default {
+  --color-primary: #cc0033;
+  --color-secondary: #1e22aa;
+}
+.theme-asc {
+  --color-primary: #1e22aa;
+  --color-secondary: #cc0033;
+}

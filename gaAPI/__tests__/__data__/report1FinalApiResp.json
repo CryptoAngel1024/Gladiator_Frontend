@@ -1,0 +1,64 @@
+{
+  "data": {
+    "January": {
+      "activeUsers": 0,
+      "newUsers": 0,
+      "userEngagementDuration": 0
+    },
+    "February": {
+      "activeUsers": 0,
+      "newUsers": 0,
+      "userEngagementDuration": 0
+    },
+    "March": {
+      "activeUsers": 10,
+      "newUsers": 10,
+      "userEngagementDuration": 3768
+    },
+    "April": {
+      "activeUsers": 0,
+      "newUsers": 0,
+      "userEngagementDuration": 0
+    },
+    "May": {
+      "activeUsers": 0,
+      "newUsers": 0,
+      "userEngagementDuration": 0
+    },
+    "June": {
+      "activeUsers": 0,
+      "newUsers": 0,
+      "userEngagementDuration": 0
+    },
+    "July": {
+      "activeUsers": 0,
+      "newUsers": 0,
+      "userEngagementDuration": 0
+    },
+    "August": {
+      "activeUsers": 0,
+      "newUsers": 0,
+      "userEngagementDuration": 0
+    },
+    "September": {
+      "activeUsers": 0,
+      "newUsers": 0,
+      "userEngagementDuration": 0
+    },
+    "October": {
+      "activeUsers": 0,
+      "newUsers": 0,
+      "userEngagementDuration": 0
+    },
+    "November": {
+      "activeUsers": 0,
+      "newUsers": 0,
+      "userEngagementDuration": 0
+    },
+    "December": {
+      "activeUsers": 0,
+      "newUsers": 0,
+      "userEngagementDuration": 0
+    }
+  }
+}

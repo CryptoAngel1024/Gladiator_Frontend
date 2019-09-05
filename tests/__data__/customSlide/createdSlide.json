@@ -1,0 +1,15 @@
+{
+  "createdDate": "2021-12-24T16:10:32.489Z",
+  "isEnabled": true,
+  "pageNumber": 0,
+  "slide": {
+    "slideId": "12345678-d23d-4f3e-917c-2fa6079b4599",
+    "slideContent": "{\"initialSlideInfoId\":\"87654321-f5f7-4f3e-917c-2fa6079b4599\",\"slideTitle\":\"tes12\",\"subTitle\":\"\",\"slideCategory\":\"INTRODUCTION\",\"pageNumber\":1,\"customSlideType\":\"CUSTOM_SLIDE_1\",\"version\":0,\"showTitle\":true,\"showSubtitle\":true,\"showImages\":true,\"numberOfImages\":1,\"slideInfoId\":\"87654321-f5f7-4f3e-917c-2fa6079b4599\"}",
+    "version": 0,
+    "prePopulatedSlide": "",
+    "slideType": "CUSTOM",
+    "customSlideType": "CUSTOM_SLIDE_1"
+  },
+  "slideCategory": "INTRODUCTION",
+  "slideInfoId": "87654321-f5f7-4f3e-917c-2fa6079b4599"
+}

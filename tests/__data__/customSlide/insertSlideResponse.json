@@ -1,0 +1,58 @@
+{
+  "contact": "string",
+  "contract": "string",
+  "createdDate": "2021-12-26T13:02:29.785Z",
+  "customerInfo": "string",
+  "customerName": "string",
+  "customerProblem": "string",
+  "discovery": "string",
+  "internalUserDetails": [
+    {
+      "email": "string",
+      "firstName": "string",
+      "internalUserId": "string",
+      "lastName": "string",
+      "role": "string",
+      "shareRfp": true,
+      "userId": "string",
+      "userType": "string"
+    }
+  ],
+  "lastUpdatedDate": "2021-12-26T13:02:29.785Z",
+  "owner": "string",
+  "presentationId": "string",
+  "presentationState": "string",
+  "presentationVersions": {
+    "contact": 0,
+    "contract": 0,
+    "customerName": 0,
+    "customerProblem": 0,
+    "discovery": 0,
+    "internal_USER": 0,
+    "slideSelection": 0,
+    "slide_INFOS": 0,
+    "stakeholders": 0,
+    "tier": 0,
+    "update_PRESENTATION": 0
+  },
+  "slideSelection": "string",
+  "slides": [
+    {
+      "createdDate": "2021-12-26T13:02:29.785Z",
+      "isEnabled": true,
+      "pageNumber": 0,
+      "slide": {
+        "customSlideType": "string",
+        "prePopulatedSlide": "string",
+        "slideContent": "string",
+        "slideId": "string",
+        "slideType": "string",
+        "version": 0
+      },
+      "slideCategory": "string",
+      "slideInfoId": "string"
+    }
+  ],
+  "stakeholders": "string",
+  "tier": "string"
+}

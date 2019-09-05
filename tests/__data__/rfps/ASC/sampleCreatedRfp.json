@@ -1,0 +1,1137 @@
+{
+  "presentationId": "0530e97a-658d-4165-bef4-e47ec8741683",
+  "slides": [
+    {
+      "slideInfoId": "881e06b2-ff96-4530-af07-974d142f812d",
+      "slideCategory": "INTRODUCTION",
+      "pageNumber": 1,
+      "slide": {
+        "slideId": "ae66280a-8790-4642-97c1-5c615d190bce",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_1",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.862",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "682bfa18-f6d9-46be-91f0-7ef64e74d1ef",
+      "slideCategory": "INTRODUCTION",
+      "pageNumber": 2,
+      "slide": {
+        "slideId": "b4652a6e-bc10-4997-a72c-d9d7e3e2abb0",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_2",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.864",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "341f4f2d-ef25-4ba8-9c24-bf4620ffbfff",
+      "slideCategory": "INTRODUCTION",
+      "pageNumber": 3,
+      "slide": {
+        "slideId": "e1121b21-9899-42bd-afb1-704f1a11f084",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_3",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.865",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "2f4e5454-4185-44bb-9fd1-5660f4d55f7b",
+      "slideCategory": "INTRODUCTION",
+      "pageNumber": 4,
+      "slide": {
+        "slideId": "92e17c8d-42ad-4ab3-9d95-01b7eb1e5096",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_4",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.866",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "52e2935e-9008-48b3-8900-fa6b2a90ec55",
+      "slideCategory": "INTRODUCTION",
+      "pageNumber": 5,
+      "slide": {
+        "slideId": "017faffc-661f-41f5-9d96-3ae77ea02075",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_5",
+        "slideType": "DYNAMIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.874",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "3138ce64-3aff-4cd0-bdae-4176597fc9ed",
+      "slideCategory": "INTRODUCTION",
+      "pageNumber": 6,
+      "slide": {
+        "slideId": "6acb8f8f-abb0-4d96-8a4b-a0ba8fab68ff",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_6",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.875",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "adb5afb4-20c9-495c-8e96-177c7b270c0b",
+      "slideCategory": "INTRODUCTION",
+      "pageNumber": 7,
+      "slide": {
+        "slideId": "464fcef5-1327-4573-84e5-c1044e1c68d8",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_7",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.876",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "ecc8d59a-a7ae-4030-bd95-7782b67c87e2",
+      "slideCategory": "INTRODUCTION",
+      "pageNumber": 8,
+      "slide": {
+        "slideId": "c27e073d-2f09-443b-9de7-3a0567e4dc62",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_8",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.877",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "8175cd9c-ad63-48e5-a072-c33031af5513",
+      "slideCategory": "INTRODUCTION",
+      "pageNumber": 9,
+      "slide": {
+        "slideId": "c7fd23ac-416a-422d-84ed-fda1aa95f2c6",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_9",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.877",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "65749b74-4b43-4552-a150-860dce8b3cbc",
+      "slideCategory": "INTRODUCTION",
+      "pageNumber": 10,
+      "slide": {
+        "slideId": "f013646e-99de-4450-a8d0-16da1a972ff7",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_10",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.878",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "d1ee7be0-352b-4e67-9314-1dab1583aba7",
+      "slideCategory": "INTRODUCTION",
+      "pageNumber": 11,
+      "slide": {
+        "slideId": "f8191edb-9bd6-4896-a242-524a8f14d4b9",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_11",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.879",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "58931e71-fdc8-40ba-b903-8534dad0261f",
+      "slideCategory": "CLINICAL_EXCELLENCE",
+      "pageNumber": 12,
+      "slide": {
+        "slideId": "f3473179-da4b-432a-92cc-b74dc31e0410",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_12",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.883",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "da3321c1-2338-4dbc-b956-cc4de7fafc1b",
+      "slideCategory": "CLINICAL_EXCELLENCE",
+      "pageNumber": 13,
+      "slide": {
+        "slideId": "91def423-3ece-4f5d-8ea7-a063737bc640",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_13",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.884",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "07ad0529-8ef0-47b1-917e-44288d43a8de",
+      "slideCategory": "CLINICAL_EXCELLENCE",
+      "pageNumber": 14,
+      "slide": {
+        "slideId": "6e0dfda0-dd98-41e9-b63d-48f9a4f54b8f",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_14",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.884",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "d7700591-b02d-4df0-9407-b500c8b7a187",
+      "slideCategory": "CLINICAL_EXCELLENCE",
+      "pageNumber": 15,
+      "slide": {
+        "slideId": "7397a8bc-06be-43da-94cf-6a14f363bc46",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_15",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.886",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "ee314a5a-7c52-45b0-a74d-48bbf367e72d",
+      "slideCategory": "CLINICAL_EXCELLENCE",
+      "pageNumber": 16,
+      "slide": {
+        "slideId": "03ac8624-011e-4c20-8455-6d199b425042",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_16",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.887",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "642fdd0a-2573-4f35-8f6c-5a9df89c5e75",
+      "slideCategory": "CLINICAL_EXCELLENCE",
+      "pageNumber": 17,
+      "slide": {
+        "slideId": "0adb332f-43e0-42ad-bc06-878512734753",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_17",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.887",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "b5274824-8540-4d46-a3f4-ce32335fbb09",
+      "slideCategory": "CLINICAL_EXCELLENCE",
+      "pageNumber": 18,
+      "slide": {
+        "slideId": "618de782-e56c-439d-bb44-cac4d7c87f6c",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_18",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.888",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "a4cf7698-4e2a-4e1b-891a-03820c01215a",
+      "slideCategory": "CLINICAL_EXCELLENCE",
+      "pageNumber": 19,
+      "slide": {
+        "slideId": "2d0d4408-0249-4fc1-87e5-ca30a7603580",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_19",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.888",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "a70a76c7-0309-451b-a621-7ce51f039a1f",
+      "slideCategory": "CLINICAL_EXCELLENCE",
+      "pageNumber": 20,
+      "slide": {
+        "slideId": "515bde8b-fd9c-48c6-a250-9d70f3dda022",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_20",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.889",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "17ca9c85-a95c-459b-8baa-07fa3e2ff402",
+      "slideCategory": "CLINICAL_EXCELLENCE",
+      "pageNumber": 21,
+      "slide": {
+        "slideId": "384ed2a2-ebde-4ca3-8ded-071e3d97bb06",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_21",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.889",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "5393c27b-79be-427e-acdc-b62b9d849685",
+      "slideCategory": "CLINICAL_EXCELLENCE",
+      "pageNumber": 22,
+      "slide": {
+        "slideId": "1343d893-bd81-436a-927c-76b228c8d974",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_22",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.89",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "6b6b0414-3cd1-4d71-85f1-518fed3f4f9d",
+      "slideCategory": "CLINICAL_EXCELLENCE",
+      "pageNumber": 23,
+      "slide": {
+        "slideId": "951a9e54-5fa9-4076-a0a6-5c7d75d07ee8",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_23",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.89",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "bb7772d5-f553-45c5-8505-b9b1d70e834b",
+      "slideCategory": "CLINICAL_EXCELLENCE",
+      "pageNumber": 24,
+      "slide": {
+        "slideId": "27c6b074-be43-496a-a96e-8e0229a77d7c",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_24",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.891",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "3e7f414e-d4d2-4301-a46b-bdabec8806e2",
+      "slideCategory": "CLINICAL_EXCELLENCE",
+      "pageNumber": 25,
+      "slide": {
+        "slideId": "2286e2b2-393c-4392-a6df-506801ae5d9c",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_25",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.891",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "4a10f645-905c-4744-801b-2371402433c7",
+      "slideCategory": "CLINICAL_EXCELLENCE",
+      "pageNumber": 26,
+      "slide": {
+        "slideId": "c7a530cb-cfa9-4e37-90b8-ba677bf2da47",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_26",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.892",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "03bf510c-12a7-4b9b-9de4-28c7515af5f5",
+      "slideCategory": "CLINICAL_EXCELLENCE",
+      "pageNumber": 27,
+      "slide": {
+        "slideId": "2f627e0e-107f-439f-906f-e7a5d205f5cc",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_27",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.892",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "e608fd8d-9dbe-47cf-91dd-63a666c3fe59",
+      "slideCategory": "CLINICAL_EXCELLENCE",
+      "pageNumber": 28,
+      "slide": {
+        "slideId": "809f362f-23f5-4a5f-8806-4d8ea64f1e35",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_28",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.893",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "d454a8f4-6220-4560-a531-afe062a12362",
+      "slideCategory": "CLINICAL_EXCELLENCE",
+      "pageNumber": 29,
+      "slide": {
+        "slideId": "ee42645d-b258-4c81-9146-06937000f2d8",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_29",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.893",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "c534af6f-185c-4dae-8da5-beca55169f41",
+      "slideCategory": "CLINICAL_EXCELLENCE",
+      "pageNumber": 30,
+      "slide": {
+        "slideId": "8fc13dfb-2ee5-4f13-b0e9-b4a936f68ced",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_30",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.894",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "26b1b28f-4bed-4e96-b924-2ecdfcbc0421",
+      "slideCategory": "CLINICAL_EXCELLENCE",
+      "pageNumber": 31,
+      "slide": {
+        "slideId": "23803632-19fc-4848-b12f-8474fc333cf0",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_31",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.895",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "7a350786-4d1b-4bad-b1b0-76d4da652177",
+      "slideCategory": "CLINICAL_EXCELLENCE",
+      "pageNumber": 32,
+      "slide": {
+        "slideId": "a3ca48de-22e4-425b-8f39-428d3852db85",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_32",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.895",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "944dce60-06d4-42a3-97f4-2ee4f459a0da",
+      "slideCategory": "ECONOMIC_VALUES",
+      "pageNumber": 33,
+      "slide": {
+        "slideId": "0ab4bebc-fc77-4c50-8ecc-6c6beefd22ee",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_33",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.899",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "caa9e4d2-e431-4989-8b4a-7fb6548f1df7",
+      "slideCategory": "ECONOMIC_VALUES",
+      "pageNumber": 34,
+      "slide": {
+        "slideId": "49536b5a-d269-4a7f-9dfa-086f8309c18d",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_34",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.9",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "2f2c2a7e-46fc-4e9d-9a0f-1ed79259a997",
+      "slideCategory": "ECONOMIC_VALUES",
+      "pageNumber": 35,
+      "slide": {
+        "slideId": "550f5b60-4807-4de1-9b2d-05f461f17cae",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_35",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.901",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "f1125835-b716-4afc-b7c8-af1a6a7d043b",
+      "slideCategory": "ECONOMIC_VALUES",
+      "pageNumber": 36,
+      "slide": {
+        "slideId": "a259b4f2-bb89-4662-9731-676f7a406929",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_36",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.901",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "09879609-c612-48f2-8867-fb3923604285",
+      "slideCategory": "ECONOMIC_VALUES",
+      "pageNumber": 37,
+      "slide": {
+        "slideId": "a3d47886-8338-49c1-9e0a-5e41485f3fbf",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_37",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.902",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "6b3258e1-51ec-447d-bdde-f7c04395a58c",
+      "slideCategory": "ECONOMIC_VALUES",
+      "pageNumber": 38,
+      "slide": {
+        "slideId": "58ebc8b3-eeb9-4c97-ad9d-ce6c853ece99",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_38",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.902",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "d1f820b2-77ea-4779-a50c-ce1853d90421",
+      "slideCategory": "ECONOMIC_VALUES",
+      "pageNumber": 39,
+      "slide": {
+        "slideId": "75d09380-d03d-4b1c-a950-6fd2fb81012d",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_39",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.903",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "c1c2ef5b-6e6a-4228-b455-b8c9b5c7d028",
+      "slideCategory": "ECONOMIC_VALUES",
+      "pageNumber": 40,
+      "slide": {
+        "slideId": "c2a2b1a4-5112-4c49-b538-ce3f7d939c55",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_40",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.903",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "c833c18c-d00e-4b63-8046-66dd6266d98e",
+      "slideCategory": "ECONOMIC_VALUES",
+      "pageNumber": 41,
+      "slide": {
+        "slideId": "6f2e4053-845a-45f7-8457-128e3bb4f3d5",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_41",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.904",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "5982d1a2-52d9-4275-8f02-0342efbae966",
+      "slideCategory": "ECONOMIC_VALUES",
+      "pageNumber": 42,
+      "slide": {
+        "slideId": "daa2928f-1084-443d-a024-8e4d8827c040",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_42",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.904",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "fa9148dd-ddfe-4c42-8345-d0e4fd0db7ae",
+      "slideCategory": "ECONOMIC_VALUES",
+      "pageNumber": 43,
+      "slide": {
+        "slideId": "9b7f5e19-faaa-4912-843d-75fad65bec9a",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_43",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.904",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "a951d67c-a620-43f3-82d3-c3d9df06f8d7",
+      "slideCategory": "ECONOMIC_VALUES",
+      "pageNumber": 44,
+      "slide": {
+        "slideId": "2bbbe2a9-e554-4c92-a14b-57e8c844aceb",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_44",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.905",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "f9467f11-dfa5-4bac-8e33-615d860e136a",
+      "slideCategory": "ECONOMIC_VALUES",
+      "pageNumber": 45,
+      "slide": {
+        "slideId": "fec25b09-ed1d-4c85-9d58-04037d46f018",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_45",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.905",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "b6e5bd77-baf5-487e-9a39-a440857495ec",
+      "slideCategory": "ECONOMIC_VALUES",
+      "pageNumber": 46,
+      "slide": {
+        "slideId": "259b18f9-a3b3-40cb-9cb6-54b4e839a8d7",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_46",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.917",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "0ae75a4e-ff0f-4907-9274-727dfea66048",
+      "slideCategory": "ECONOMIC_VALUES",
+      "pageNumber": 47,
+      "slide": {
+        "slideId": "48f85235-b26b-491a-b47f-ce49c1827de0",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_47",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.918",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "5a49c215-1766-41ce-a18e-996829afc2e0",
+      "slideCategory": "ECONOMIC_VALUES",
+      "pageNumber": 48,
+      "slide": {
+        "slideId": "3f428a9a-dc9f-4ab8-b428-5bafaba270e6",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_48",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.918",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "2dc50c15-5808-41ec-aa8a-f9c7a5876db4",
+      "slideCategory": "OPERATIONAL_SUPPORT",
+      "pageNumber": 49,
+      "slide": {
+        "slideId": "2b360fa7-b68c-42ae-8220-9330064eec56",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_49",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.922",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "1f1a398c-51fe-4b54-9f83-5fe083dd983f",
+      "slideCategory": "OPERATIONAL_SUPPORT",
+      "pageNumber": 50,
+      "slide": {
+        "slideId": "1abdd0ea-ec17-462a-afb6-b2dc7c2cd8e4",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_50",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.923",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "29e54950-bde0-4a97-9fb5-59fdfb22102a",
+      "slideCategory": "OPERATIONAL_SUPPORT",
+      "pageNumber": 51,
+      "slide": {
+        "slideId": "d6b01fe4-7646-4384-b93a-efb6b4c97882",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_51",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.923",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "a38efde5-84eb-4abe-93b6-81e5efa2ef63",
+      "slideCategory": "OPERATIONAL_SUPPORT",
+      "pageNumber": 52,
+      "slide": {
+        "slideId": "84f41499-b3f5-4ceb-b6d4-74c9865c9ec2",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_52",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.924",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "b103767c-3570-4d76-8057-21cf96844a09",
+      "slideCategory": "OPERATIONAL_SUPPORT",
+      "pageNumber": 53,
+      "slide": {
+        "slideId": "62a4d177-fc67-4e7c-bd09-9e8311ad5c9d",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_53",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.924",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "23b33738-ff07-40c0-b16c-995d9a7a98fe",
+      "slideCategory": "OPERATIONAL_SUPPORT",
+      "pageNumber": 54,
+      "slide": {
+        "slideId": "2f408426-129d-440a-983a-4434d483f7c3",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_54",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.925",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "ae61440e-53ac-481b-8dd0-2a4b03a833d2",
+      "slideCategory": "OPERATIONAL_SUPPORT",
+      "pageNumber": 55,
+      "slide": {
+        "slideId": "00a8c795-dcb7-4e0f-9cdf-426238149468",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_55",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.925",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "1190b40c-d61b-4ebf-94a7-d9fcfadd6c01",
+      "slideCategory": "OPERATIONAL_SUPPORT",
+      "pageNumber": 56,
+      "slide": {
+        "slideId": "9bbda268-6fa2-4894-b8e4-6e99a9cb436f",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_56",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.926",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "06af1919-5149-4dab-9005-2c757f51c7a3",
+      "slideCategory": "OPERATIONAL_SUPPORT",
+      "pageNumber": 57,
+      "slide": {
+        "slideId": "fcdd7249-6984-40c4-a9cd-83b54edae0cf",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_57",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.926",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "0e0ae78a-b0e9-4c4f-bb0b-deb14d7cf381",
+      "slideCategory": "OPERATIONAL_SUPPORT",
+      "pageNumber": 58,
+      "slide": {
+        "slideId": "109677b7-f76b-4697-9835-5f5cb382fb9d",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_58",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.927",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "70dc340c-f277-4390-9bce-e1c9bac620de",
+      "slideCategory": "OPERATIONAL_SUPPORT",
+      "pageNumber": 59,
+      "slide": {
+        "slideId": "d443a3b7-2ee9-447c-a63f-fc129923c1e9",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_59",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.927",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "b1cd2d50-583f-4d97-9e13-20c11c22dac3",
+      "slideCategory": "OPERATIONAL_SUPPORT",
+      "pageNumber": 60,
+      "slide": {
+        "slideId": "b0585ddb-2a3c-4ca3-baea-26cbf8685100",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_60",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.928",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "48347348-48e0-4d3d-9696-452d51f5cf69",
+      "slideCategory": "YOUR_DEPUY_SYNTHES_TEAM",
+      "pageNumber": 61,
+      "slide": {
+        "slideId": "f04dd331-20a1-4b10-a216-d677d2d05cb1",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_61",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.932",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "75490d91-be1a-4fa2-aae3-31831285cc34",
+      "slideCategory": "YOUR_DEPUY_SYNTHES_TEAM",
+      "pageNumber": 62,
+      "slide": {
+        "slideId": "014bbd96-292c-47bd-924e-ea42a3dcce46",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_62",
+        "slideType": "DYNAMIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.932",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "f2939fe7-5a1a-466e-9424-18751b607a81",
+      "slideCategory": "YOUR_DEPUY_SYNTHES_TEAM",
+      "pageNumber": 63,
+      "slide": {
+        "slideId": "0a63b703-83ba-43f6-b964-55f6dc096f67",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_63",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.933",
+      "department": "ASC",
+      "version": null
+    },
+    {
+      "slideInfoId": "5e034c53-f5ef-4f5c-ae7a-18317860f9e9",
+      "slideCategory": "YOUR_DEPUY_SYNTHES_TEAM",
+      "pageNumber": 64,
+      "slide": {
+        "slideId": "3f04b868-4647-4f12-a00f-6434b1d9d1df",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "ASC_64",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2022-01-28T15:31:54.933",
+      "department": "ASC",
+      "version": null
+    }
+  ],
+  "owner": "6e73841a-b057-4ddf-afb5-7897fb40b0e4",
+  "customerName": "Asc Cutomer Henok",
+  "presentationState": "DRAFT",
+  "internalUserDetails": [
+    {
+      "internalUserId": "6e73841a-b057-4ddf-afb5-7897fb40b0e4",
+      "userId": "us-east-1:dc22a6b0-d502-4ade-8b95-01bdaac6aecb",
+      "role": "OWNER",
+      "shareRfp": false,
+      "userType": null,
+      "firstName": "melaku",
+      "lastName": "dev",
+      "email": "melaku44@gmail.com"
+    }
+  ],
+  "createdDate": "2022-01-28T15:31:54.82",
+  "lastUpdatedDate": "2022-01-28T15:31:54.955",
+  "presentationVersions": {
+    "customerName": null,
+    "presentationInformation": {},
+    "internal_USER": null,
+    "slide_INFOS": null
+  },
+  "publicationCount": 0,
+  "informations": {
+    "INFORMATION10": null,
+    "INFORMATION14": null,
+    "INFORMATION13": null,
+    "INFORMATION12": null,
+    "INFORMATION11": null,
+    "INFORMATION3": null,
+    "INFORMATION2": null,
+    "INFORMATION1": null,
+    "INFORMATION9": null,
+    "INFORMATION8": null,
+    "INFORMATION15": null,
+    "INFORMATION7": null,
+    "INFORMATION6": null,
+    "INFORMATION5": null,
+    "INFORMATION4": null
+  },
+  "department": "ASC",
+  "totalSlidesCount": 0,
+  "enabledSlidesCount": 0
+}

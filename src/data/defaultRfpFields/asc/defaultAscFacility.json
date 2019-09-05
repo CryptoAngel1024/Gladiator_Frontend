@@ -1,0 +1,16 @@
+{
+  "surgical": {
+    "operatingRoom": "",
+    "fullRoom": { "selection": "", "additionalInfo": {} },
+    "capacity": { "selection": "", "additionalInfo": {} }
+  },
+
+  "processDepartment": {
+    "fullRoom": { "selection": "", "additionalInfo": {} },
+    "sterileStorage": { "selection": "", "additionalInfo": {} },
+    "tools": { "selection": "", "additionalInfo": {} },
+    "containers": "",
+    "sterilizationCosts": "",
+    "drillbits": { "selection": "", "additionalInfo": {} }
+  }
+}

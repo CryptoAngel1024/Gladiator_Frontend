@@ -1,0 +1,165 @@
+common:
+  buildTimeoutInMinutes: 45
+  cleanWorkspace: true
+  debug: false
+  directory: project
+  dockerImage: jnj.artifactrepo.jnj.com/jpm/node:14
+  jpmUnitTest: false
+  pipelineType: node
+
+  # Build Actions
+  package:
+    type: react.web
+    enabled: true
+    name: Gladiator-frontend-app  # the zip file created will be suffixed with -${version}.zip
+    packageDir: dist/
+    versionFileUpdates:
+      - type: node-package
+  versionCalculation:
+    enabled: false
+    type: gitversion
+    patternType: jnj-dev-branch
+    confirmVersion: false
+  publish:
+    enabled: false
+  resolveArtifacts:
+    enabled: false
+  buildAnalysis:
+    enabled: false
+  # Post Build Actions
+  deploy:
+    type: s3
+    unarchiveFile: Gladiator-frontend-app-*.tar.gz
+    srcPath: .unarchive
+    unarchiveType: tar
+    credentialsId: itx-bvo-iacapi
+  integrationTest:
+    enabled: false
+
+# Pipeline details per environment
+environments:
+  # Development Branches
+  PREDEV:
+    mergeCheck:
+        enabled: true
+        destination: develop
+        dir: project
+    deploy:
+      enabled: false
+    lint:
+      enabled: true
+      # NOT Recommended. Should be true to avoid getting code quality issue
+      stopOnFailure: false
+      type: npm
+      command: npm run lint
+      directory: project
+      archiveOutput: false
+    staticAnalysis:
+      enabled: true
+      type: sonar
+      stopOnFailure: true
+      shortLivedAnalysis: true
+      shortLivedBuildResults:
+        # NOT Recommended: Has to be Remove at the earliest.
+        IGNORE:
+          BLOCKER: true
+          CRITICAL: true
+          MAJOR: true
+          MINOR: true
+          INFO: true
+      # Comment below is the ideal shortLivedBuildResults Config.
+      # Once Problems are mitigated this needs to be restored
+      #   BLOCKER:
+      #     FAILURE: 0
+      #     UNSTABLE: 0
+      #   CRITICAL:
+      #     FAILURE: 0
+      #     UNSTABLE: 0
+      #   MAJOR:
+      #     FAILURE: 0
+      #     UNSTABLE: 0
+      #   MINOR:
+      #     FAILURE: 0
+      #     UNSTABLE: 0
+      #   IGNORE:
+      #     INFO: true
+    unitTest:
+      enabled: true
+      type: npm
+      command: jest --coverage --no-cache
+      coverageReportFile: coverage/lcov.info
+      dir: project
+    dependencyAnalysis:
+      enabled: true
+      type: npm
+      attachReport: true
+      reportName: 'node-dependency-audit.json'
+    package:
+        enable: false
+        type: 'zip'
+        credentialsId: artifactory
+
+  DEV:
+    deploy:
+      enabled: true
+      type: s3
+      s3Bucket: depuysynthes-dev
+    staticAnalysis:
+      enabled: true
+      type: sonar
+      stopOnFailure: false
+      longLivedAnalysis: true
+      longLivedBuildResults:
+        # NOT Recommended: Has to be Remove at the earliest.
+        IGNORE:
+          BLOCKER: true
+          CRITICAL: true
+          MAJOR: true
+          MINOR: true
+          INFO: true
+        QUALITY_GATE:
+          ERROR: SUCCESS
+          WARN: SUCCESS
+        # Comment below is the ideal shortLivedBuildResults Config.
+        # Once Problems are mitigated this needs to be restored
+        # BLOCKER:
+        #   FAILURE: 0
+        #   UNSTABLE: 0
+        # CRITICAL:
+        #   FAILURE: 0
+        #   UNSTABLE: 0
+        # MAJOR:
+        #   FAILURE: 0
+        #   UNSTABLE: 0
+        # MINOR:
+        #   FAILURE: 0
+        #   UNSTABLE: 0
+        # QUALITY_GATE:
+        #   ERROR: FAILURE
+        #   WARN: UNSTABLE
+        # IGNORE:
+        #   INFO: true
+    package:
+      npmCommand: npm run build
+    versionCalculation:
+      pattern: ${Major}.${Minor}.${Patch}-dev.${BuildMetaData}
+
+  STAGE:
+    mergeCheck:
+        enabled: true
+        destination: master
+        dir: project
+    staticAnalysis:
+      enabled: false
+      type: sonar
+      stopOnFailure: false
+    deploy:
+      enabled: false
+
+  PROD:
+    staticAnalysis:
+      enabled: false
+      type: sonar
+      stopOnFailure: false
+    deploy:
+      enabled: false

@@ -1,0 +1,224 @@
+[
+  {
+    "folderID": 1,
+    "name": "default",
+    "data": [
+      {
+        "id": "2",
+        "filename": "Optimizer",
+        "externalUrl": "https://optimizer.jnj.com/Optimizer/#/home",
+        "favorite": false
+      },
+      {
+        "id": "3",
+        "filename": "Ways of Working Doc",
+        "filetype": "pdf",
+        "snippet": "The following ‘ways of working doc’ reflect best practices and guiding principles, jointly developed by US DPS and SCG, to win as a #BetterTogether team. Teams are empowered to work together in a dynamic, compliant way, based on unique customer needs, market dynamics, and local commercial relationships.",
+        "tags": ["Pull the Team Together"],
+        "externalUrl": "https://optimizer.jnj.com/Optimizer/sec/collateral?linkId=37899",
+        "displayInUrls": ["update-presentation", "2"],
+        "favorite": false
+      },
+      {
+        "id": "4",
+        "filename": "Trauma Table by Site of Care",
+        "filetype": "ppt",
+        "snippet": "These 4 fillable slides are intended to show a representative model highlighting differences between average procedures in Joints, Spine and Trauma. Data sourced from internal DePuy Synthes customer management database (Optimizer)",
+        "tags": ["Map Stakeholders"],
+        "externalUrl": "https://optimizer.jnj.com/Optimizer/sec/collateral?linkId=37960",
+        "displayInUrls": ["update-presentation", "3"],
+        "favorite": false
+      },
+      {
+        "id": "5",
+        "filename": "SCG Business Plan Example",
+        "filetype": "pdf",
+        "snippet": "This pdf showcases 2 example customer summaries reviewing the customer priorities and account plan",
+        "tags": ["Map Stakeholders"],
+        "externalUrl": "https://optimizer.jnj.com/Optimizer/sec/collateral?linkId=37938",
+        "displayInUrls": ["update-presentation", "3"],
+        "favorite": false
+      },
+      {
+        "id": "6",
+        "filename": "Salesforce",
+        "snippet": "scan the contract landscape useing salesforce.com",
+        "tags": ["Scan Contract Landscape"],
+        "externalUrl": "https://truview.my.salesforce.com/",
+        "displayInUrls": ["update-presentation", "5"],
+        "favorite": false
+      },
+      {
+        "id": "7",
+        "filename": "Deal Analytics Guide",
+        "filetype": "ppt",
+        "snippet": "Learn how to get started with Deal Analytics by walking through the general process of creating a request and SFDC case",
+        "tags": ["Scan Contract Landscape"],
+        "externalUrl": "https://optimizer.jnj.com/Optimizer/sec/collateral?linkId=37935",
+        "displayInUrls": ["update-presentation", "5"],
+        "favorite": false
+      },
+      {
+        "id": "8",
+        "filename": "Stories from 3rd Party Data",
+        "filetype": "ppt",
+        "snippet": "Review these 4 slides to access information around savings opportunities, trauma spend analysis and more.  These slides are also included in the customer partnership proposal deck",
+        "tags": ["Prebuilt Value Stories"],
+        "externalUrl": "https://optimizer.jnj.com/Optimizer/sec/collateral?linkId=37943",
+        "favorite": false
+      },
+      {
+        "id": "9",
+        "filename": "Sourceview Usage Data Template",
+        "filetype": "ppt",
+        "snippet": "Use this template for your sourceview usage data",
+        "tags": ["Ask for customer data, find savings"],
+        "externalUrl": "https://optimizer.jnj.com/Optimizer/sec/collateral?linkId=37942",
+        "favorite": false
+      },
+      {
+        "id": "10",
+        "filename": "Negotiation Stance Guide",
+        "filetype": "ppt",
+        "snippet": "Learn more about developing a negotiation stance, templating a stretegic importance dashboard, and determining a holding line",
+        "tags": ["find a negotiation stance"],
+        "externalUrl": "https://optimizer.jnj.com/Optimizer/sec/collateral?linkId=38005",
+        "favorite": false
+      },
+      {
+        "id": "11",
+        "filename": "VPR Strategy Refresher",
+        "filetype": "ppt",
+        "snippet": "Learn more about current discounting methodology, and VPR strategy examples",
+        "tags": ["create pathways to save using VPR pricing"],
+        "externalUrl": "https://optimizer.jnj.com/Optimizer/sec/collateral?linkId=37883",
+        "favorite": false
+      },
+      {
+        "id": "12",
+        "filename": "VPR Impact Tool",
+        "filetype": "excel",
+        "snippet": "Use this excel document to view an example of the VPR impact tool",
+        "tags": ["create pathways to save using VPR pricing"],
+        "externalUrl": "https://optimizer.jnj.com/Optimizer/sec/collateral?linkId=37944",
+        "favorite": false
+      },
+      {
+        "id": "13",
+        "filename": "VPR Procedure and Tech List",
+        "filetype": "ppt",
+        "snippet": "This pdf lists out the premium tech and value tech by product brand, for plates, screws, nails and more",
+        "tags": ["create pathways to save using VPR pricing"],
+        "externalUrl": "https://optimizer.jnj.com/Optimizer/sec/collateral?linkId=37882",
+        "favorite": false
+      },
+      {
+        "id": "14",
+        "filename": "CSSR Table",
+        "filetype": "ppt",
+        "snippet": "These are prebuilt slides selected for CSSR tables",
+        "tags": ["show procedural spend and savings"],
+        "externalUrl": "https://optimizer.jnj.com/Optimizer/sec/collateral?linkId=38053",
+        "displayInUrls": ["SAV2"],
+        "favorite": false
+      },
+      {
+        "id": "15",
+        "filename": "Trauma Analysis Tool- Sourceview",
+        "filetype": "ppt",
+        "snippet": "This powerpoint reviews Sourceview and how to use the tool",
+        "tags": ["show procedural spend and savings"],
+        "externalUrl": "https://optimizer.jnj.com/Optimizer/sec/collateral?linkId=37940",
+        "displayInUrls": ["SAV2"],
+        "favorite": false
+      },
+      {
+        "id": "16",
+        "filename": "Offer Evaluation Template",
+        "filetype": "ppt",
+        "snippet": "Use this guide to understand the offer evaluation steps and competitive offer analysis",
+        "externalUrl": "https://optimizer.jnj.com/Optimizer/sec/collateral?linkId=38083",
+        "favorite": false
+      },
+      {
+        "id": "17",
+        "filename": "Contracting Strategies Resources",
+        "filetype": "ppt",
+        "snippet": "Use this powerpoint to access linked resources for your contracting strategies",
+        "externalUrl": "https://optimizer.jnj.com/Optimizer/sec/collateral?linkId=38004",
+        "favorite": false
+      },
+      {
+        "id": "18",
+        "filename": "Trauma Inventory Resources",
+        "filetype": "ppt",
+        "snippet": "Use this powerpoint to access linked resources for your inventory solutions",
+        "externalUrl": "https://optimizer.jnj.com/Optimizer/sec/collateral?linkId=38003",
+        "favorite": false
+      },
+      {
+        "id": "19",
+        "filename": "Redbook Strategy Playbook",
+        "filetype": "pdf",
+        "snippet": "Use this tool to inform you negotiation strategy and plan for the event of not reaching an agreement",
+        "tags": ["Redbook Strategy"],
+        "externalUrl": "https://optimizer.jnj.com/Optimizer/sec/collateral?linkId=38054",
+        "favorite": false
+      },
+      {
+        "id": "20",
+        "filename": "Trauma Budget Impact Calculator",
+        "snippet": "This tool uses Basecase",
+        "tags": ["Budget Calculator"],
+        "externalUrl": "https://interactive.basecase.com/",
+        "favorite": false
+      },
+      {
+        "id": "21",
+        "filename": "Value-Based Care Program Resources",
+        "filetype": "ppt",
+        "snippet": "Learn more about the 3 value based care programs (eSims, Hip fracture care, and sterile containers)",
+        "externalUrl": "https://optimizer.jnj.com/Optimizer/sec/collateral?linkId=38001",
+        "favorite": false
+      },
+      {
+        "id": "22",
+        "filename": "Capital Placement Program for Trauma",
+        "filetype": "ppt",
+        "snippet": "Use this powerpoint to take a deeper dive into the capital placement program",
+        "externalUrl": "https://optimizer.jnj.com/Optimizer/sec/collateral?linkId=38204",
+        "favorite": false
+      },
+      {
+        "id": "23",
+        "filename": "J&J Institute Professional Education Resources",
+        "snippet": "This site showcases Trauma-based on-demand learning from the J&J Institute",
+        "externalUrl": "https://jnjinstitute.com/en-us/online-profed-resources/resources/trauma",
+        "favorite": false
+      },
+      {
+        "id": "24",
+        "filename": "AO Foundation Trauma Surgery Reference",
+        "snippet": "Learn more about the AO and the many resources available",
+        "externalUrl": "https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma",
+        "favorite": false
+      },
+      {
+        "id": "25",
+        "filename": "Dealrip Scorecard Template",
+        "snippet": "coming soon",
+        "externalUrl": "https://optimizer.jnj.com/Optimizer/sec/collateral?linkId=38098",
+        "favorite": false
+      },
+      {
+        "id": "26",
+        "filename": "Negotiation Execution Guide",
+        "filetype": "ppt",
+        "snippet": "use this guide to get advice for critical steps in your negotiation with customers",
+        "tags": ["Negotiation"],
+        "externalUrl": "https://optimizer.jnj.com/Optimizer/sec/collateral?linkId=38078",
+        "favorite": false
+      }
+    ]
+  }
+]

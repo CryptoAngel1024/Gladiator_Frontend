@@ -1,0 +1,64 @@
+{
+  "ascBoardMembers": [
+    {
+      "name": "",
+      "speciality": "",
+      "votingBoardMember": ""
+    },
+
+    {
+      "name": "",
+      "speciality": "",
+      "votingBoardMember": ""
+    },
+
+    {
+      "name": "",
+      "speciality": "",
+      "votingBoardMember": ""
+    },
+
+    {
+      "name": "",
+      "speciality": "",
+      "votingBoardMember": ""
+    },
+
+    {
+      "name": "",
+      "speciality": "",
+      "votingBoardMember": ""
+    },
+
+    {
+      "name": "",
+      "speciality": "",
+      "votingBoardMember": ""
+    }
+  ],
+  "ascStakeholders": [
+    { "title": "lead surgeon", "name": "", "otherWork": "", "goal": "" },
+    {
+      "title": "lead anesthesiologist",
+      "name": "",
+      "otherWork": "",
+      "goal": ""
+    },
+    { "title": "nurse lead", "name": "", "otherWork": "", "goal": "" },
+    { "title": "asc administrator", "name": "", "otherWork": "", "goal": "" },
+    { "title": "or coordinator", "name": "", "otherWork": "", "goal": "" },
+    { "title": "materials manager", "name": "", "otherWork": "", "goal": "" },
+    { "title": "central processing", "name": "", "otherWork": "", "goal": "" },
+    { "title": "scheduling", "name": "", "otherWork": "", "goal": "" },
+    { "title": "surgical tech lead", "name": "", "otherWork": "", "goal": "" },
+    {
+      "title": "education coordinator",
+      "name": "",
+      "otherWork": "",
+      "goal": ""
+    },
+    { "title": "purchasing lead", "name": "", "otherWork": "", "goal": "" },
+    { "title": "contracting lead", "name": "", "otherWork": "", "goal": "" },
+    { "title": "marketing director", "name": "", "otherWork": "", "goal": "" }
+  ]
+}

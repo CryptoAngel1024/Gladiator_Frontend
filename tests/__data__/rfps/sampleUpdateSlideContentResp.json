@@ -1,0 +1,17 @@
+{
+  "createdDate": "2022-01-31T14:35:24.791Z",
+  "department": "TRAUMA",
+  "isEnabled": true,
+  "pageNumber": 0,
+  "slide": {
+    "customSlideType": "string",
+    "prePopulatedSlide": "string",
+    "slideContent": "string",
+    "slideId": "string",
+    "slideType": "string",
+    "version": 0
+  },
+  "slideCategory": "string",
+  "slideInfoId": "string",
+  "version": 0
+}

@@ -1,0 +1,75 @@
+{
+  "buCustomerRelationships": [
+    {
+      "title": "trauma & extremities",
+      "isBuCurrentlyEngagedWithCustomer": null,
+      "buRelationWithCustomerRating": "",
+      "bulastEngagementWithCustomer": "",
+      "lastEngagementOfBuWithCustomer": ""
+    },
+    {
+      "title": "joint recon",
+      "isBuCurrentlyEngagedWithCustomer": null,
+      "buRelationWithCustomerRating": "",
+      "bulastEngagementWithCustomer": "",
+      "lastEngagementOfBuWithCustomer": ""
+    },
+    {
+      "title": "surgical sports",
+      "isBuCurrentlyEngagedWithCustomer": null,
+      "buRelationWithCustomerRating": "",
+      "bulastEngagementWithCustomer": "",
+      "lastEngagementOfBuWithCustomer": ""
+    },
+    {
+      "title": "trauma & extremities",
+      "isBuCurrentlyEngagedWithCustomer": null,
+      "buRelationWithCustomerRating": "",
+      "bulastEngagementWithCustomer": "",
+      "lastEngagementOfBuWithCustomer": ""
+    },
+    {
+      "title": "spine",
+      "isBuCurrentlyEngagedWithCustomer": null,
+      "buRelationWithCustomerRating": "",
+      "bulastEngagementWithCustomer": "",
+      "lastEngagementOfBuWithCustomer": ""
+    },
+    {
+      "title": "ethicon",
+      "isBuCurrentlyEngagedWithCustomer": null,
+      "buRelationWithCustomerRating": "",
+      "bulastEngagementWithCustomer": "",
+      "lastEngagementOfBuWithCustomer": ""
+    },
+    {
+      "title": "other",
+      "isBuCurrentlyEngagedWithCustomer": null,
+      "buRelationWithCustomerRating": "",
+      "bulastEngagementWithCustomer": "",
+      "lastEngagementOfBuWithCustomer": ""
+    }
+  ],
+  "buTamWithCustomer": [
+    {
+      "title": "trauma & extremities",
+      "tam": "",
+      "dpsSales": ""
+    },
+    {
+      "title": "joint recon",
+      "tam": "",
+      "dpsSales": ""
+    },
+    {
+      "title": "surgical sports(implants, disposables,capital)",
+      "tam": "",
+      "dpsSales": ""
+    },
+    {
+      "title": "spine",
+      "tam": "",
+      "dpsSales": ""
+    }
+  ]
+}

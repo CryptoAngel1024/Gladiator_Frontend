@@ -1,0 +1,15 @@
+{
+  "jnjMSUsername": "username",
+  "sub": "userID1",
+  "address": {
+    "country": "US",
+    "region": "NA"
+  },
+  "profile": "userID1",
+  "name": "Demo User",
+  "phone_number": "Phone",
+  "given_name": "Demo",
+  "locale": "US",
+  "family_name": "User",
+  "email": "Email"
+}

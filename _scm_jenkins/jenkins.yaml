@@ -1,0 +1,20 @@
+- url: https://jenkins.eat.jnj.com/jadi-dev
+  createJobsFrom:
+    - develop
+    - feature/*
+  jobs:
+    - jobStyle: multi-branch-pipeline
+      jobName: gladiator/Frontend
+      jobCredentials: sourcecode-bitbucket
+      includeBranches:
+        - release/*
+        - feature/*
+        - bugfix/*
+        - hotfix/*
+        - develop
+        - main
+        - stage
+      excludeBranches:
+        - archive/*
+        - backup/*
+        - feature/never-build

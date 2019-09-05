@@ -1,0 +1,17 @@
+{
+  "customerEMR": "",
+  "goodTarget": "",
+  "acm1": "",
+  "acm2": "",
+  "acm": {
+    "joint": "",
+    "trauma": "",
+    "orthopaedics": ""
+  },
+  "joint": false,
+  "trauma": false,
+  "orthopaedics": false,
+  "understandingJnJ": "",
+  "patientPrograms": "",
+  "onDemandEducation": ""
+}

@@ -1,0 +1,58 @@
+{
+  "createdDate": "2022-01-28T15:48:13.228Z",
+  "customerName": "string",
+  "department": "string",
+  "enabledSlidesCount": 0,
+  "informations": {
+    "additionalProp1": "string",
+    "additionalProp2": "string",
+    "additionalProp3": "string"
+  },
+  "internalUserDetails": [
+    {
+      "email": "string",
+      "firstName": "string",
+      "internalUserId": "string",
+      "lastName": "string",
+      "role": "string",
+      "shareRfp": true,
+      "userId": "string",
+      "userType": "string"
+    }
+  ],
+  "lastUpdatedDate": "2022-01-28T15:48:13.228Z",
+  "owner": "string",
+  "presentationId": "string",
+  "presentationState": "string",
+  "presentationVersions": {
+    "customerName": 0,
+    "internal_USER": 0,
+    "presentationInformation": {
+      "additionalProp1": 0,
+      "additionalProp2": 0,
+      "additionalProp3": 0
+    },
+    "slide_INFOS": 0
+  },
+  "publicationCount": 0,
+  "slides": [
+    {
+      "createdDate": "2022-01-28T15:48:13.228Z",
+      "department": "string",
+      "isEnabled": true,
+      "pageNumber": 0,
+      "slide": {
+        "customSlideType": "string",
+        "prePopulatedSlide": "string",
+        "slideContent": "string",
+        "slideId": "string",
+        "slideType": "string",
+        "version": 0
+      },
+      "slideCategory": "string",
+      "slideInfoId": "string",
+      "version": 0
+    }
+  ],
+  "totalSlidesCount": 0
+}

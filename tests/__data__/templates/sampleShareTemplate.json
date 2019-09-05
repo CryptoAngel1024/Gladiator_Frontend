@@ -1,0 +1,15 @@
+{
+  "internalUserDetails": [
+    {
+      "email": "share@template.com",
+      "firstName": "share",
+      "internalUserId": "1",
+      "lastName": "template",
+      "role": "EDITOR",
+      "shareRfp": true,
+      "userType": "userType"
+    }
+  ],
+  "templateId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "department": "TRAUMA"
+}

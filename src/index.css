@@ -1,0 +1,63 @@
+/* ./src/index.css */
+@import '@/assets/styles/fonts.css';
+@import '@/assets/styles/themes.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .text-header-jnj {
+    @apply text-2xl font-bold text-gray-875 font-JnJ;
+  }
+  .text-title-jnj {
+    @apply font-medium text-lg font-JnJ;
+  }
+  .text-subheader-jnj {
+    @apply text-lg font-medium text-gray-500 font-JnJ;
+  }
+
+  .text-header {
+    @apply text-lg font-bold font-Arial;
+  }
+  .text-subheader {
+    @apply text-base font-bold text-gray-500 font-Arial;
+  }
+  .text-title {
+    @apply font-bold text-sm font-Arial text-gray-875;
+  }
+  .text-normal {
+    @apply text-base font-normal font-Arial;
+  }
+  /* input styles */
+  .presentation-wizard-radio {
+    @apply w-5 h-5 border-2 border-gray-450;
+  }
+  .wizard-main-container {
+    @apply flex py-4 flex-col items-start w-full min-w-56;
+  }
+  .wizard-main-header1 {
+    @apply text-2xl font-medium font-JnJ py-2;
+  }
+
+  .wizard-main-header2 {
+    @apply text-2xl font-bold font-JnJ py-2;
+  }
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+  border: 1px solid darkgray;
+  border-radius: 5px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: darkgrey;
+  border-radius: 5px;
+}
+
+* {
+  -webkit-print-color-adjust: exact !important; /* Chrome, Safari */
+  color-adjust: exact !important; /*Firefox*/
+  /* outline: red auto; */
+}

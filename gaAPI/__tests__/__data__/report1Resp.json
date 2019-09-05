@@ -1,0 +1,31 @@
+{
+  "dimensionHeaders": [{ "name": "month" }],
+  "metricHeaders": [
+    { "name": "activeUsers", "type": "TYPE_INTEGER" },
+    { "name": "newUsers", "type": "TYPE_INTEGER" },
+    { "name": "userEngagementDuration", "type": "TYPE_SECONDS" }
+  ],
+  "rows": [
+    {
+      "dimensionValues": [{ "value": "03", "oneValue": "value" }],
+      "metricValues": [
+        { "value": "10", "oneValue": "value" },
+        { "value": "10", "oneValue": "value" },
+        { "value": "3768", "oneValue": "value" }
+      ]
+    }
+  ],
+  "totals": [],
+  "maximums": [],
+  "minimums": [],
+  "rowCount": 1,
+  "metadata": {
+    "dataLossFromOtherRow": false,
+    "currencyCode": "USD",
+    "_currencyCode": "currencyCode",
+    "timeZone": "America/Los_Angeles",
+    "_timeZone": "timeZone"
+  },
+  "propertyQuota": null,
+  "kind": "analyticsData#runReport"
+}

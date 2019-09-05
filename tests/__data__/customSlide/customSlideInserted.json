@@ -1,0 +1,15 @@
+{
+  "slideInfoId": "c5516f1f-169a-4972-9012-dad82565f0ca",
+  "slideCategory": "INTRODUCTION",
+  "pageNumber": 1,
+  "slide": {
+    "slideId": "8f00b037-d68f-4d7e-97de-8b8b335d7692",
+    "slideContent": "{\"initialSlideInfoId\":\"f890ce37-af31-4ba9-b7dd-7e8afbaa804f\",\"slideTitle\":\"Custom Slide Title 1\",\"subTitle\":\"Custom Slide SubTitle 1\",\"slideCategory\":\"INTRODUCTION\",\"pageNumber\":1,\"customSlideType\":\"CUSTOM_SLIDE_1\",\"version\":0,\"showTitle\":true,\"showSubtitle\":true,\"showImages\":true,\"numberOfImages\":0}",
+    "version": 0,
+    "prePopulatedSlide": "",
+    "slideType": "CUSTOM",
+    "customSlideType": "CUSTOM_SLIDE_1"
+  },
+  "isEnabled": false,
+  "createdDate": "2022-01-19T13:10:22.407"
+}

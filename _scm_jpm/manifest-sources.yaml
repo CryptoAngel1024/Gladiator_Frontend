@@ -1,0 +1,18 @@
+version: "1.0"
+sources:
+  - name: common-manifest
+    location:
+      locationType: project
+      file: _scm_jpm/manifest.yaml
+    manifest:
+      type: simple
+      path: common
+      required: true
+  - name: environment
+    location:
+      locationType: project
+      file: _scm_jpm/manifest.yaml
+    manifest:
+      type: by-environment
+      path: environments
+      required: true

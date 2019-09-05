@@ -1,0 +1,899 @@
+{
+  "presentationId": "0530e97a-658d-4165-bef4-e47ec8741683",
+  "slides": [
+    {
+      "slideInfoId": "e6df362b-1b61-4a40-a9cb-4968d5b4ea61",
+      "slideCategory": "INTRODUCTION",
+      "pageNumber": 1,
+      "slide": {
+        "slideId": "b5b6956f-ad3b-491b-9c31-29a463354a71",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "INTRO1",
+        "slideType": "DYNAMIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.811"
+    },
+    {
+      "slideInfoId": "55774812-a7a4-4db5-a347-95638a398713",
+      "slideCategory": "INTRODUCTION",
+      "pageNumber": 2,
+      "slide": {
+        "slideId": "0756efa5-290f-4caa-9449-0140f904426d",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "INTR_PPH",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.815"
+    },
+    {
+      "slideInfoId": "9a79c7dc-94b1-40b5-9db4-e733fc261edd",
+      "slideCategory": "INTRODUCTION",
+      "pageNumber": 3,
+      "slide": {
+        "slideId": "6afd374e-ecb6-4bda-a386-32e0fd48b102",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "INTR1",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.816"
+    },
+    {
+      "slideInfoId": "3577dbd8-dd01-4417-9bb5-0e789646f792",
+      "slideCategory": "INTRODUCTION",
+      "pageNumber": 4,
+      "slide": {
+        "slideId": "9786b8e5-4f94-4bb0-9adc-0a043a3dd22b",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "INTR2",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.817"
+    },
+    {
+      "slideInfoId": "77665dff-361f-4756-bc41-a7b52ff331b2",
+      "slideCategory": "INTRODUCTION",
+      "pageNumber": 5,
+      "slide": {
+        "slideId": "9ff98752-8fe8-4bb0-a8e0-d7106d2e9b5a",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "INTR3",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.83"
+    },
+    {
+      "slideInfoId": "45abee80-6387-4f97-a6d3-cb7af5beb4d1",
+      "slideCategory": "INTRODUCTION",
+      "pageNumber": 6,
+      "slide": {
+        "slideId": "1ac06b48-a370-41e7-970a-a10bd9815fe3",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "INTR4",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.83"
+    },
+    {
+      "slideInfoId": "ef7f459d-038a-42d8-bbf0-bf7fd09b25c3",
+      "slideCategory": "INTRODUCTION",
+      "pageNumber": 7,
+      "slide": {
+        "slideId": "29f93795-33a2-49b1-bf40-e63688d8c575",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "INTR5",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.831"
+    },
+    {
+      "slideInfoId": "08676f30-8dc4-45ca-810b-eb104dcc641c",
+      "slideCategory": "INTRODUCTION",
+      "pageNumber": 8,
+      "slide": {
+        "slideId": "779c6d13-11b6-4623-b565-79e809e82707",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "INTR6",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.831"
+    },
+    {
+      "slideInfoId": "a6b2cff8-7082-4e1f-89f9-22b7799704ad",
+      "slideCategory": "INTRODUCTION",
+      "pageNumber": 9,
+      "slide": {
+        "slideId": "c61debb1-f43e-442d-bc03-2c9ca4c4a9ad",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "INTR7",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.832"
+    },
+    {
+      "slideInfoId": "0980813c-154d-468d-ae95-90d6fea6db2f",
+      "slideCategory": "INTRODUCTION",
+      "pageNumber": 10,
+      "slide": {
+        "slideId": "4538cbda-13be-4867-a601-9a6941c1da10",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "INTR8",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.832"
+    },
+    {
+      "slideInfoId": "999f70ee-d9b6-49cc-929f-0e94ae2d66ff",
+      "slideCategory": "CUSTOMER_SERVICE",
+      "pageNumber": 11,
+      "slide": {
+        "slideId": "09e454a7-153c-4f78-86ae-78eb4533c617",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "CS_PPH",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.835"
+    },
+    {
+      "slideInfoId": "26b146b5-7a02-45f9-9068-ce90357a14ce",
+      "slideCategory": "CUSTOMER_SERVICE",
+      "pageNumber": 12,
+      "slide": {
+        "slideId": "e2407416-32fd-4980-b35f-4a662965fe0c",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "CS1",
+        "slideType": "DYNAMIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.836"
+    },
+    {
+      "slideInfoId": "5e696e62-e32e-431c-b136-06fe2179f82d",
+      "slideCategory": "SURGEON_SATISFACTION",
+      "pageNumber": 13,
+      "slide": {
+        "slideId": "b8ea7096-7c7f-4782-a5a5-ed5f45fe4bf6",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "SRG_PPH",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.838"
+    },
+    {
+      "slideInfoId": "c29668c3-f0a9-4d0d-b59a-a06be77de5d8",
+      "slideCategory": "SURGEON_SATISFACTION",
+      "pageNumber": 14,
+      "slide": {
+        "slideId": "2c3fefa6-05d4-4747-9999-307efc1a6373",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "SRG1",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.839"
+    },
+    {
+      "slideInfoId": "20bc0ef7-4497-475b-b739-65e158fc53e0",
+      "slideCategory": "SURGEON_SATISFACTION",
+      "pageNumber": 15,
+      "slide": {
+        "slideId": "fe6180cc-17a2-4c3a-9b45-0c68872d34cd",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "SRG2",
+        "slideType": "DYNAMIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.84"
+    },
+    {
+      "slideInfoId": "835291ef-eac2-472a-8e15-b89459fe93b6",
+      "slideCategory": "DELIVER_ACTUAL_SAVINGS",
+      "pageNumber": 16,
+      "slide": {
+        "slideId": "86b33c78-7f63-4b82-a54a-3f36d9da5515",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "SAV_PPH",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.846"
+    },
+    {
+      "slideInfoId": "169118b3-62b6-4cae-8e8a-4678b9e31790",
+      "slideCategory": "DELIVER_ACTUAL_SAVINGS",
+      "pageNumber": 17,
+      "slide": {
+        "slideId": "273fa111-2708-4c7b-8d09-384112164785",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "SAV3",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.846"
+    },
+    {
+      "slideInfoId": "b4943def-34fc-4490-b88b-89f40c4fe345",
+      "slideCategory": "DELIVER_ACTUAL_SAVINGS",
+      "pageNumber": 18,
+      "slide": {
+        "slideId": "e718d482-8e5d-4826-a642-32939380e845",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "SAV4",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.847"
+    },
+    {
+      "slideInfoId": "8842266f-814f-4b7d-8a95-39249b1f0797",
+      "slideCategory": "DELIVER_ACTUAL_SAVINGS",
+      "pageNumber": 19,
+      "slide": {
+        "slideId": "e657dbaa-035b-4937-b2b8-51474a3dd97f",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "SAV5",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.847"
+    },
+    {
+      "slideInfoId": "4372cee6-8427-4aee-92fb-7c65f300df68",
+      "slideCategory": "DELIVER_ACTUAL_SAVINGS",
+      "pageNumber": 20,
+      "slide": {
+        "slideId": "68fd9186-73a7-481f-9c32-d7beee3e7032",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "SAV6",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.848"
+    },
+    {
+      "slideInfoId": "5f60cef6-e782-489c-b9c9-dbf9046fdb1d",
+      "slideCategory": "DELIVER_ACTUAL_SAVINGS",
+      "pageNumber": 21,
+      "slide": {
+        "slideId": "e3e40244-8523-42c8-b444-fbcc3c0f8ce3",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "SAV8",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.848"
+    },
+    {
+      "slideInfoId": "e082e7bf-87eb-483c-a8d8-c5d9bd9aea2e",
+      "slideCategory": "DELIVER_ACTUAL_SAVINGS",
+      "pageNumber": 22,
+      "slide": {
+        "slideId": "379332e6-acf8-4044-9a57-450ae2227e56",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "SAV2",
+        "slideType": "DYNAMIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.848"
+    },
+    {
+      "slideInfoId": "0ac8455f-8004-482e-a575-1bbe95bdcc3e",
+      "slideCategory": "DELIVER_ACTUAL_SAVINGS",
+      "pageNumber": 23,
+      "slide": {
+        "slideId": "63d8b776-1c70-4860-b267-6e384d575bda",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "SAV25",
+        "slideType": "DYNAMIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.849"
+    },
+    {
+      "slideInfoId": "57975c6a-e292-453f-8af4-b416303faad2",
+      "slideCategory": "DELIVER_ACTUAL_SAVINGS",
+      "pageNumber": 24,
+      "slide": {
+        "slideId": "644f21f7-da30-469f-9f94-fca9064c4a9a",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "SAV26",
+        "slideType": "DYNAMIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.849"
+    },
+    {
+      "slideInfoId": "d6159217-926d-4137-aa5d-5b59a5c1d6da",
+      "slideCategory": "DELIVER_ACTUAL_SAVINGS",
+      "pageNumber": 25,
+      "slide": {
+        "slideId": "562b9d9d-eea7-45cf-a362-5640e0df9ca3",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "SAV27",
+        "slideType": "DYNAMIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.85"
+    },
+    {
+      "slideInfoId": "d1ef7cde-173a-4a41-9e5c-a9354069b3e9",
+      "slideCategory": "DELIVER_ACTUAL_SAVINGS",
+      "pageNumber": 26,
+      "slide": {
+        "slideId": "75ff4c97-0f8f-4486-8323-75b8b0125a46",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "SAV28",
+        "slideType": "DYNAMIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.85"
+    },
+    {
+      "slideInfoId": "190acb13-cf38-4485-bd4f-d61b6dfb7924",
+      "slideCategory": "DELIVER_ACTUAL_SAVINGS",
+      "pageNumber": 27,
+      "slide": {
+        "slideId": "baea5e6a-c6e6-4284-bc3a-309d340d75c4",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "SAV14",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.85"
+    },
+    {
+      "slideInfoId": "d7a508c3-8620-472a-bbd1-e464c58dbd3a",
+      "slideCategory": "DELIVER_ACTUAL_SAVINGS",
+      "pageNumber": 28,
+      "slide": {
+        "slideId": "123bee1b-536d-4038-b4e7-7f3a69e3fa01",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "SAV15",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.851"
+    },
+    {
+      "slideInfoId": "2b981843-4cde-4730-846e-9f31017bacda",
+      "slideCategory": "DELIVER_ACTUAL_SAVINGS",
+      "pageNumber": 29,
+      "slide": {
+        "slideId": "5bd7fb22-fdab-4e34-8912-329dae95fe14",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "SAV9",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.851"
+    },
+    {
+      "slideInfoId": "14d07ecd-60e3-46ce-83ca-77bb0040fa7e",
+      "slideCategory": "DELIVER_ACTUAL_SAVINGS",
+      "pageNumber": 30,
+      "slide": {
+        "slideId": "db34756b-795b-46af-86e3-dc50ae946da3",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "SAV10",
+        "slideType": "DYNAMIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.852"
+    },
+    {
+      "slideInfoId": "a92bc7e9-500b-4c5d-ada3-5673322984a2",
+      "slideCategory": "DELIVER_ACTUAL_SAVINGS",
+      "pageNumber": 31,
+      "slide": {
+        "slideId": "d919c932-5516-4c32-9fcc-a7cb9ec0b327",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "SAV11",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.852"
+    },
+    {
+      "slideInfoId": "50fcb47d-5176-40a3-aa4d-6b90c24a38b7",
+      "slideCategory": "DELIVER_ACTUAL_SAVINGS",
+      "pageNumber": 32,
+      "slide": {
+        "slideId": "07888ec0-3191-4251-a46c-7081f7a6650a",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "SAV12",
+        "slideType": "DYNAMIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.852"
+    },
+    {
+      "slideInfoId": "1c68dbf5-88e6-4ba2-ac97-728f5795c56a",
+      "slideCategory": "DELIVER_ACTUAL_SAVINGS",
+      "pageNumber": 33,
+      "slide": {
+        "slideId": "b3ae4c25-ee2a-420e-93cd-c73741416a20",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "SAV13",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.853"
+    },
+    {
+      "slideInfoId": "d960da78-6f65-40ef-901d-24f2a2b2395d",
+      "slideCategory": "DELIVER_ACTUAL_SAVINGS",
+      "pageNumber": 34,
+      "slide": {
+        "slideId": "1bb3f44c-65b0-4717-a7bc-7e7a847e02ec",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "SAV21",
+        "slideType": "DYNAMIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.853"
+    },
+    {
+      "slideInfoId": "568c5f83-eff6-4066-b2ba-dbd3ab875fd7",
+      "slideCategory": "DELIVER_ACTUAL_SAVINGS",
+      "pageNumber": 35,
+      "slide": {
+        "slideId": "2c56b9c8-558d-4a0c-8ebc-73d4e484853b",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "SAV22",
+        "slideType": "DYNAMIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.854"
+    },
+    {
+      "slideInfoId": "11735424-4fb3-4374-a203-9bd3a482e561",
+      "slideCategory": "DELIVER_ACTUAL_SAVINGS",
+      "pageNumber": 36,
+      "slide": {
+        "slideId": "db7dad89-ae7b-4e85-b5df-86424b97c104",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "SAV23",
+        "slideType": "DYNAMIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.854"
+    },
+    {
+      "slideInfoId": "6de79aee-32aa-4251-b4b1-3c2e4f4f7492",
+      "slideCategory": "DELIVER_ACTUAL_SAVINGS",
+      "pageNumber": 37,
+      "slide": {
+        "slideId": "5e857fdb-a172-4774-b95d-602085360a3f",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "SAV24",
+        "slideType": "DYNAMIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.854"
+    },
+    {
+      "slideInfoId": "ad319fd2-f9f2-42ca-b4ed-cb03a7466745",
+      "slideCategory": "QUALITY_OF_CARE",
+      "pageNumber": 38,
+      "slide": {
+        "slideId": "470fb7f5-f1f9-4e16-a757-3441d277c0e9",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "QOC_PPH",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.87"
+    },
+    {
+      "slideInfoId": "4028d21b-59b2-4827-8e98-5c45affc955e",
+      "slideCategory": "QUALITY_OF_CARE",
+      "pageNumber": 39,
+      "slide": {
+        "slideId": "8df8d66e-8e9f-4495-b1aa-2288e85fc92e",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "QOC1",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.871"
+    },
+    {
+      "slideInfoId": "643870e0-5526-4550-9494-36e91704d20d",
+      "slideCategory": "QUALITY_OF_CARE",
+      "pageNumber": 40,
+      "slide": {
+        "slideId": "e9fb9d35-740e-4f1e-ab69-4f999d25580f",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "QOC6",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.871"
+    },
+    {
+      "slideInfoId": "0e9a13d2-1c31-4b57-9293-fefd16f15ce1",
+      "slideCategory": "QUALITY_OF_CARE",
+      "pageNumber": 41,
+      "slide": {
+        "slideId": "d496efce-a9be-44fa-91b9-a80b65512a47",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "QOC7",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.872"
+    },
+    {
+      "slideInfoId": "985dff4f-e2da-4052-9f2d-6e836a23ae11",
+      "slideCategory": "QUALITY_OF_CARE",
+      "pageNumber": 42,
+      "slide": {
+        "slideId": "c1250bbc-5ce9-46c4-9727-4521103bc174",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "QOC3",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.872"
+    },
+    {
+      "slideInfoId": "ef3a114b-9ef7-4f8e-a87c-9bc6c4e1cfa2",
+      "slideCategory": "QUALITY_OF_CARE",
+      "pageNumber": 43,
+      "slide": {
+        "slideId": "18eeffa2-aa9c-441d-95c7-1aa6a38a4476",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "QOC4",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.872"
+    },
+    {
+      "slideInfoId": "d24ba84d-f3cd-4e37-926d-32545221150c",
+      "slideCategory": "TRAINING_SUPPORT",
+      "pageNumber": 44,
+      "slide": {
+        "slideId": "06e54154-f1c2-4c17-841c-3b4840057cb7",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "EDU_PPH",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.875"
+    },
+    {
+      "slideInfoId": "36bdb74f-5612-4eff-8134-c8a7e85f259f",
+      "slideCategory": "TRAINING_SUPPORT",
+      "pageNumber": 45,
+      "slide": {
+        "slideId": "652c38a8-a0c9-4940-8577-356b0ef30088",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "EDU1",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.876"
+    },
+    {
+      "slideInfoId": "d66cbac1-98a1-4452-89f4-1c755ce5f415",
+      "slideCategory": "TRAINING_SUPPORT",
+      "pageNumber": 46,
+      "slide": {
+        "slideId": "0d6fdbf8-1eea-4e12-b29f-b7d9ab26340e",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "EDU2",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.876"
+    },
+    {
+      "slideInfoId": "dbb6ef3f-1043-40db-97b7-e6eda907b3b6",
+      "slideCategory": "TRAINING_SUPPORT",
+      "pageNumber": 47,
+      "slide": {
+        "slideId": "3598af56-b780-42ea-87ba-42e492b5dc53",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "EDU3",
+        "slideType": "DYNAMIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.876"
+    },
+    {
+      "slideInfoId": "c3b49633-32a3-4928-b320-fb04fd66bd2c",
+      "slideCategory": "COMPREHENSIVE_PORTFOLIO",
+      "pageNumber": 48,
+      "slide": {
+        "slideId": "e6a4ac3a-1684-4a0e-8050-61cec771aa9e",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "PORT_PPH",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.879"
+    },
+    {
+      "slideInfoId": "1c09555c-fe36-45aa-9619-e2bee718c2ab",
+      "slideCategory": "COMPREHENSIVE_PORTFOLIO",
+      "pageNumber": 49,
+      "slide": {
+        "slideId": "50233318-bec8-4d99-9f18-d234587ea794",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "PORT1",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.88"
+    },
+    {
+      "slideInfoId": "52c9fcf1-ab9e-4de2-b86e-6c55c840b35b",
+      "slideCategory": "COMPREHENSIVE_PORTFOLIO",
+      "pageNumber": 50,
+      "slide": {
+        "slideId": "e00268e1-b07a-4545-9268-aafffe7d50b1",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "APPD1",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.88"
+    },
+    {
+      "slideInfoId": "3d33f615-5299-4ea6-a688-b91fe4f21599",
+      "slideCategory": "COMPREHENSIVE_PORTFOLIO",
+      "pageNumber": 51,
+      "slide": {
+        "slideId": "e6ccdb54-45d2-4d6e-9a0a-1392adbc7d97",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "APPD2",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.88"
+    },
+    {
+      "slideInfoId": "31db10da-09d5-4e7c-a957-1c7748f37ae7",
+      "slideCategory": "COMPREHENSIVE_PORTFOLIO",
+      "pageNumber": 52,
+      "slide": {
+        "slideId": "0dc05a6e-ab66-413d-a9b7-61c68e4a363a",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "PORT4",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.881"
+    },
+    {
+      "slideInfoId": "c1d53eb5-1b80-4482-9cc1-4c26ec8d56c5",
+      "slideCategory": "COMPREHENSIVE_PORTFOLIO",
+      "pageNumber": 53,
+      "slide": {
+        "slideId": "00d9546f-2e38-4165-b01f-923a240f82eb",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "PORT7",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.881"
+    },
+    {
+      "slideInfoId": "1fbe6331-1a0e-4ed4-b19c-6547ae1981e6",
+      "slideCategory": "COMPREHENSIVE_PORTFOLIO",
+      "pageNumber": 54,
+      "slide": {
+        "slideId": "1720d7e2-8751-4340-a5e9-65c4863ccac9",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "PORT5",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.882"
+    },
+    {
+      "slideInfoId": "48652f96-dd8d-490c-87a6-4d04a86ad200",
+      "slideCategory": "COMPREHENSIVE_PORTFOLIO",
+      "pageNumber": 55,
+      "slide": {
+        "slideId": "38111953-dd83-44a1-aa4b-6064717d46d6",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "PORT6",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.882"
+    },
+    {
+      "slideInfoId": "f51055b1-3732-4d44-a8f3-5f0b98041787",
+      "slideCategory": "APPENDIX",
+      "pageNumber": 56,
+      "slide": {
+        "slideId": "8763447f-4dea-41fd-8d3d-981dd0346995",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "APDX1",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.885"
+    },
+    {
+      "slideInfoId": "d24603f7-9799-4484-b5e9-8c566a9271d9",
+      "slideCategory": "APPENDIX",
+      "pageNumber": 57,
+      "slide": {
+        "slideId": "d1997331-f140-48da-85e7-fc79967ceeb7",
+        "slideContent": null,
+        "version": 0,
+        "prePopulatedSlide": "APDX2",
+        "slideType": "STATIC",
+        "customSlideType": null
+      },
+      "isEnabled": false,
+      "createdDate": "2021-12-20T19:07:22.885"
+    }
+  ],
+  "owner": "Email",
+  "customerInfo": null,
+  "stakeholders": "[{\"title\":\"Chief Executive Officer (CEO)\",\"name\":\"Test name\",\"individualInfo\":\"dfasfas\",\"need\":\"fadfasf\"},{\"title\":\"Chief Financial Officer (CFO)\",\"name\":\"Test name 2\",\"individualInfo\":\"asdfasfa\",\"need\":\"asdfasdfads\"},{\"title\":\"Chief Operation Officer (COO)\",\"name\":\"Test name 3\",\"individualInfo\":\"fasdfasdfa\",\"need\":\"asdfasdfas\"},{\"title\":\"Clinical Resource Director(CRD)\",\"name\":\"Test name 4\",\"individualInfo\":\"fadsfasdsfdfasdf\",\"need\":\"asdfasdfasdfasdfa\"},{\"title\":\"Operating Room Director\"},{\"title\":\"Sterile Service Manager\"},{\"title\":\"Lead Surgeon\"},{\"title\":\"Lead Scrub Technician\"},{\"title\":\"GPO Lead\"},{\"title\":\"GPO Analyst\"},{\"title\":\"Hospital Analyst\"}]",
+  "discovery": null,
+  "contract": null,
+  "contact": "[]",
+  "presentationState": "DRAFT",
+  "customerName": "test customer",
+  "customerProblem": "Test customer problem Test customer problemTest customer problemTest customer problemTest customer problemTest customer problemTest customer problemTest customer problemTest customer problemTest customer problemTest customer problemTest customer problemTest customer problemTest customer problemTest customer problemTest customer problemTest customer problemTest customer problemTest customer problemTest customer problemTest customer problemTest customer problem",
+  "slideSelection": null,
+  "tier": null,
+  "internalUserDetails": [
+    {
+      "internalUserId": "1f6da14f-342e-4dd4-a3ed-5580ca566356",
+      "userId": "us-east-1:dc22a6b0-d502-4ade-8b95-01bdaac6aecb",
+      "role": "OWNER",
+      "shareRfp": false,
+      "userType": null,
+      "firstName": "Melaku",
+      "lastName": "dev",
+      "email": "melaku44@gmail.com"
+    }
+  ],
+  "createdDate": "2021-12-20T19:07:22.788",
+  "lastUpdatedDate": "2021-12-20T19:13:09.594",
+  "presentationVersions": {
+    "stakeholders": 12,
+    "customerName": 0,
+    "contract": 0,
+    "contact": 0,
+    "customerProblem": 0,
+    "slideSelection": 0,
+    "tier": 3,
+    "discovery": 0,
+    "update_PRESENTATION": 1,
+    "internal_USER": 3,
+    "slide_INFOS": 0
+  },
+  "publicationCount": 0
+}

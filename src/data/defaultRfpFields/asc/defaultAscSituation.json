@@ -1,0 +1,94 @@
+{
+  "gpoAfflication": "",
+  "traumaExtremities": {
+    "footAnkle": {
+      "annualCase": "",
+      "ms": "",
+      "vendors": "",
+      "contractedBy": ""
+    },
+    "upperExtremities": {
+      "annualCase": "",
+      "ms": "",
+      "vendors": "",
+      "contractedBy": ""
+    },
+    "isOpportunity": null
+  },
+  "jointRecon": {
+    "knees": {
+      "annualCase": "",
+      "ms": "",
+      "vendors": "",
+      "contractedBy": "",
+      "isOpportunity": null
+    },
+    "hips": {
+      "annualCase": "",
+      "ms": "",
+      "vendors": "",
+      "contractedBy": "",
+      "isOpportunity": null
+    },
+    "shoulders": {
+      "annualCase": "",
+      "ms": "",
+      "vendors": "",
+      "contractedBy": "",
+      "isOpportunity": null
+    }
+  },
+  "sports": {
+    "upperExtremities": {
+      "annualCase": "",
+      "ms": "",
+      "vendors": "",
+      "contractedBy": "",
+      "isOpportunity": null
+    },
+    "lowerExtremities": {
+      "annualCase": "",
+      "ms": "",
+      "vendors": "",
+      "contractedBy": "",
+      "isOpportunity": null
+    },
+    "capital": {
+      "annualCase": "",
+      "ms": "",
+      "vendors": "",
+      "contractedBy": "",
+      "isOpportunity": null
+    },
+    "other": {
+      "annualCase": "",
+      "ms": "",
+      "vendors": "",
+      "contractedBy": "",
+      "isOpportunity": null
+    }
+  },
+  "spine": {
+    "spine": {
+      "annualCase": "",
+      "ms": "",
+      "vendors": "",
+      "contractedBy": "",
+      "isOpportunity": null
+    }
+  },
+  "whoVendors": {
+    "jointReconstruction": "",
+    "spine": "",
+    "sportsMedicine": "",
+    "traumaExtremities": ""
+  },
+  "whatAgreements": {
+    "jointReconstruction": "",
+    "spine": "",
+    "sportsMedicine": "",
+    "traumaExtremities": ""
+  },
+  "isTied": { "selection": "" },
+  "isOpportunityToPresent": { "selection": "" }
+}

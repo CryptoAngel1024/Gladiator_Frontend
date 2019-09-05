@@ -1,0 +1,14 @@
+{
+  "owner": "Email",
+  "department": "TRAUMA",
+  "slideInfos": [
+    {
+      "isEnabled": true,
+      "pageNumber": 0,
+      "slideCategory": "APPENDIX",
+      "slideCode": "APDX1"
+    }
+  ],
+  "templateDescription": "string",
+  "templateName": "string"
+}

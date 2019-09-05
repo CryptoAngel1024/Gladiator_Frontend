@@ -1,0 +1,26 @@
+{
+  "generalInstrunmentation": {
+    "samllBoneInstrument": { "selection": "", "additionalInfo": {} },
+    "generalOrthoTrays": { "selection": "", "additionalInfo": {} },
+    "plateBenders": { "selection": "", "additionalInfo": {} }
+  },
+  "technologyEnabled": {
+    "hourRoom": { "selection": "", "additionalInfo": {} },
+    "hourRoomReason": { "selection": "" }
+  },
+  "disposables": {
+    "misBurrs": "",
+    "sawBlades": "",
+    "woundClosure": "",
+    "disposableInstrument": "",
+    "Bilologics": "",
+    "surgicalSportsImplants": "",
+    "nonSterileDisposableStock": "",
+    "others": [
+      { "name": "", "value": { "selection": "" } },
+      { "name": "", "value": { "selection": "" } },
+      { "name": "", "value": { "selection": "" } },
+      { "name": "", "value": { "selection": "" } }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "bookmarked": true,
+  "department": "TRAUMA",
+  "slideInfos": [
+    {
+      "isEnabled": true,
+      "pageNumber": 0,
+      "slideCategory": "APPENDIX",
+      "slideInfoId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+    }
+  ],
+  "templateDescription": "string",
+  "templateId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "templateName": "string",
+  "slides": [
+    {
+      "createdDate": "2021-12-22T17:12:42.835Z",
+      "isEnabled": true,
+      "pageNumber": 1,
+      "slide": {
+        "customSlideType": "string",
+        "prePopulatedSlide": "string",
+        "slideContent": "string",
+        "slideId": "string",
+        "slideType": "string",
+        "version": 0
+      },
+      "slideCategory": "Category1",
+      "slideInfoId": "string"
+    },
+    {
+      "createdDate": "2021-12-22T17:12:42.835Z",
+      "isEnabled": true,
+      "pageNumber": 2,
+      "slide": {
+        "customSlideType": "string",
+        "prePopulatedSlide": "string",
+        "slideContent": "string",
+        "slideId": "string",
+        "slideType": "string",
+        "version": 0
+      },
+      "slideCategory": "Category1",
+      "slideInfoId": "string"
+    }
+  ]
+}

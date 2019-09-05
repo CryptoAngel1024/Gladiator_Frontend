@@ -1,0 +1,37 @@
+{
+  "owner": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "department": "TRAUMA",
+  "internalUserDetails": [
+    {
+      "email": "string",
+      "firstName": "string",
+      "internalUserId": "string",
+      "lastName": "string",
+      "role": "string",
+      "shareRfp": true,
+      "userId": "string",
+      "userType": "string"
+    }
+  ],
+  "slides": [
+    {
+      "createdDate": "2022-02-09T14:27:28.301Z",
+      "department": "string",
+      "isEnabled": true,
+      "pageNumber": 0,
+      "slide": {
+        "customSlideType": "string",
+        "prePopulatedSlide": "string",
+        "slideContent": "string",
+        "slideId": "string",
+        "slideType": "string",
+        "version": 0
+      },
+      "slideCategory": "string",
+      "slideInfoId": "string",
+      "version": 0
+    }
+  ],
+  "templateDescription": "string",
+  "templateName": "string"
+}

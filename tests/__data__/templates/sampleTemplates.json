@@ -1,0 +1,108 @@
+[
+  {
+    "bookmarked": true,
+    "department": "TRAUMA",
+    "internalUserDetails": [
+      {
+        "email": "email",
+        "firstName": "firstName",
+        "internalUserId": "internalUserId",
+        "lastName": "lastName",
+        "role": "VIEWER",
+        "shareRfp": true,
+        "userId": "userId",
+        "userType": "userType"
+      }
+    ],
+    "owner": "Email",
+    "slides": [
+      {
+        "createdDate": "2021-12-22T17:07:09.705Z",
+        "isEnabled": true,
+        "pageNumber": 1,
+        "slide": {
+          "customSlideType": "string",
+          "prePopulatedSlide": "string",
+          "slideContent": "slideContent",
+          "slideId": "slideId",
+          "slideType": "DYNAMIC",
+          "version": 0
+        },
+        "slideCategory": "INTRODUCTION",
+        "slideInfoId": "slideInfoId"
+      },
+      {
+        "createdDate": "2021-12-22T17:07:09.705Z",
+        "isEnabled": true,
+        "pageNumber": 2,
+        "slide": {
+          "customSlideType": "string",
+          "prePopulatedSlide": "string",
+          "slideContent": "slideContent",
+          "slideId": "slideId",
+          "slideType": "DYNAMIC",
+          "version": 0
+        },
+        "slideCategory": "INTRODUCTION",
+        "slideInfoId": "slideInfoId"
+      }
+    ],
+    "templateDescription": "string",
+    "templateId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "templateName": "test2",
+    "updatedOn": "2021-12-01"
+  },
+  {
+    "bookmarked": false,
+    "department": "TRAUMA",
+    "internalUserDetails": [
+      {
+        "email": "email",
+        "firstName": "firstName",
+        "internalUserId": "internalUserId",
+        "lastName": "lastName",
+        "role": "VIEWER",
+        "shareRfp": true,
+        "userId": "userId",
+        "userType": "userType"
+      }
+    ],
+    "owner": "man@gmail.com",
+    "slides": [
+      {
+        "createdDate": "2021-12-22T17:07:09.705Z",
+        "isEnabled": false,
+        "pageNumber": 1,
+        "slide": {
+          "customSlideType": "string",
+          "prePopulatedSlide": "string",
+          "slideContent": "slideContent",
+          "slideId": "slideId",
+          "slideType": "DYNAMIC",
+          "version": 0
+        },
+        "slideCategory": "INTRODUCTION",
+        "slideInfoId": "slideInfoId"
+      },
+      {
+        "createdDate": "2021-12-22T17:07:09.705Z",
+        "isEnabled": false,
+        "pageNumber": 2,
+        "slide": {
+          "customSlideType": "string",
+          "prePopulatedSlide": "string",
+          "slideContent": "slideContent",
+          "slideId": "slideId",
+          "slideType": "DYNAMIC",
+          "version": 0
+        },
+        "slideCategory": "INTRODUCTION",
+        "slideInfoId": "slideInfoId"
+      }
+    ],
+    "templateDescription": "string",
+    "templateId": "95ca3004-05e1-47a7-9623-cc72e496403c",
+    "templateName": "test2",
+    "updatedOn": "2021-12-22"
+  }
+]

@@ -1,0 +1,11 @@
+- branchNamePattern: '(feature|bugfix|hotfix)/.*'
+  environment: PREDEV
+# Development - Used by Build Team
+- branchNamePattern: 'develop'
+  environment: DEV
+# Stage - Used by QA from Build Team & Business Testing
+- branchNamePattern: 'stage'
+  environment: STAGE
+# Production - Live in JJNET
+- branchNamePattern: 'main'
+  environment: PROD

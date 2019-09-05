@@ -1,0 +1,53 @@
+{
+  "bookmarked": true,
+  "department": "TRAUMA",
+  "internalUserDetails": [
+    {
+      "email": "string",
+      "firstName": "string",
+      "internalUserId": "string",
+      "lastName": "string",
+      "role": "string",
+      "shareRfp": true,
+      "userId": "string",
+      "userType": "string"
+    }
+  ],
+  "owner": "22223333-5717-4562-b3fc-111111111111",
+  "slides": [
+    {
+      "createdDate": "2021-12-22T17:12:42.835Z",
+      "isEnabled": true,
+      "pageNumber": 1,
+      "slide": {
+        "customSlideType": "string",
+        "prePopulatedSlide": "string",
+        "slideContent": "string",
+        "slideId": "string",
+        "slideType": "string",
+        "version": 0
+      },
+      "slideCategory": "Category1",
+      "slideInfoId": "string"
+    },
+    {
+      "createdDate": "2021-12-22T17:12:42.835Z",
+      "isEnabled": true,
+      "pageNumber": 2,
+      "slide": {
+        "customSlideType": "string",
+        "prePopulatedSlide": "string",
+        "slideContent": "string",
+        "slideId": "string",
+        "slideType": "string",
+        "version": 0
+      },
+      "slideCategory": "Category1",
+      "slideInfoId": "string"
+    }
+  ],
+  "templateDescription": "string",
+  "templateId": "22223333-5717-4562-b3fc-111111111111",
+  "templateName": "template1",
+  "updatedOn": "2021-12-22"
+}

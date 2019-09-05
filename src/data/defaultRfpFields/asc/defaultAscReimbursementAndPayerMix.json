@@ -1,0 +1,24 @@
+{
+  "playerMix": {
+    "medicarePerMadicaid": "",
+    "privateInsurance": ""
+  },
+  "commercialPayers": {
+    "medicarePerMadicaid": "",
+    "privateInsurance": ""
+  },
+  "negotiateReimbursement": "",
+  "lowerExtremity": "",
+  "jointReconstruction": "",
+  "traumaExtremities": "",
+  "mitekSportsMedicine": "",
+  "spine": "",
+  "ethicon": "",
+  "howToStart": "",
+  "administratorToAdministrator": "",
+  "reimbursement": "",
+  "nurseStaffTraining": "",
+  "otherClinical": "",
+  "otherFinancialEconomic": "",
+  "otherOperations": ""
+}

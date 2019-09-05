@@ -1,0 +1,79 @@
+{
+  "gpoAffiliation": "",
+  "contractLandscape": [
+    {
+      "title": "contract & name",
+      "subtitle": "",
+      "traumaAndExtremities": "",
+      "jointRecon": "",
+      "surgicalSports": "",
+      "spine": "",
+      "additionalContract": ""
+    },
+    {
+      "title": "contract end date",
+      "subtitle": "",
+      "traumaAndExtremities": "",
+      "jointRecon": "",
+      "surgicalSports": "",
+      "spine": "",
+      "additionalContract": ""
+    },
+    {
+      "title": "type of contract",
+      "subtitle": "What's included?",
+      "traumaAndExtremities": "",
+      "jointRecon": "",
+      "surgicalSports": "",
+      "spine": "",
+      "additionalContract": ""
+    }
+  ],
+  "rebateStatus": [
+    {
+      "title": "Trauma & extremities",
+      "existingBusinessLineRebateOrContract": "",
+      "typeOfRebateOrContract ": "",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "title": "Joint recon - knees",
+      "existingBusinessLineRebateOrContract": "",
+      "typeOfRebateOrContract ": "",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "title": "Joint recon - hips",
+      "existingBusinessLineRebateOrContract": "",
+      "typeOfRebateOrContract ": "",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "title": "Joint recon - shoulders",
+      "existingBusinessLineRebateOrContract": "",
+      "typeOfRebateOrContract ": "",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "title": "sports",
+      "existingBusinessLineRebateOrContract": "",
+      "typeOfRebateOrContract ": "",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "title": "other (cmf, power tools )",
+      "existingBusinessLineRebateOrContract": "",
+      "typeOfRebateOrContract ": "",
+      "startDate": "",
+      "endDate": ""
+    }
+  ],
+  "sfdcCaseNumber": "",
+  "requestImpactReportAndDealScore": false,
+  "addSalesObjectiveInOptimizerIfRequired": false
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "slideInfoId": "090bc601-e11f-4617-a76f-f7d440704844",
+    "slideCategory": "INTRODUCTION",
+    "pageNumber": 1,
+    "slide": {
+      "slideId": "a7b00647-c1c8-4f3e-917c-2fa6079b4599",
+      "slideContent": "{\"initialSlideInfoId\":\"090bc601-e11f-4617-a76f-f7d440704844\",\"slideTitle\":\"tes12\",\"subTitle\":\"\",\"slideCategory\":\"INTRODUCTION\",\"pageNumber\":1,\"customSlideType\":\"CUSTOM_SLIDE_1\",\"version\":0,\"showTitle\":true,\"showSubtitle\":true,\"showImages\":true,\"numberOfImages\":1,\"slideInfoId\":\"090bc601-e11f-4617-a76f-f7d440704844\"}",
+      "version": 0,
+      "prePopulatedSlide": "",
+      "slideType": "CUSTOM",
+      "customSlideType": "CUSTOM_SLIDE_1"
+    },
+    "isEnabled": null,
+    "createdDate": "2021-12-23T22:49:21.144",
+    "department": "TRAUMA"
+  },
+  {
+    "slideInfoId": "twobc601-e11f-4617-a76f-f7d440704844",
+    "slideCategory": "INTRODUCTION",
+    "pageNumber": 2,
+    "slide": {
+      "slideId": "c1c8-c1c8-4f3e-917c-2fa6079b4599",
+      "slideContent": "{\"initialSlideInfoId\":\"090bc601-e11f-4617-a76f-f7d440704844\",\"slideTitle\":\"tes12\",\"subTitle\":\"\",\"slideCategory\":\"INTRODUCTION\",\"pageNumber\":1,\"customSlideType\":\"CUSTOM_SLIDE_1\",\"version\":0,\"showTitle\":true,\"showSubtitle\":true,\"showImages\":true,\"numberOfImages\":1,\"slideInfoId\":\"090bc601-e11f-4617-a76f-f7d440704844\"}",
+      "version": 0,
+      "prePopulatedSlide": "",
+      "slideType": "CUSTOM",
+      "customSlideType": "CUSTOM_SLIDE_1"
+    },
+    "isEnabled": null,
+    "createdDate": "2021-12-23T22:49:21.144",
+    "department": "TRAUMA"
+  }
+]

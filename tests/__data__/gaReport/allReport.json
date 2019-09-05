@@ -1,0 +1,137 @@
+{
+  "data": {
+    "r1": {
+      "January": {
+        "activeUsers": 0,
+        "newUsers": 0,
+        "userEngagementDuration": 0
+      },
+      "February": {
+        "activeUsers": 0,
+        "newUsers": 0,
+        "userEngagementDuration": 0
+      },
+      "March": {
+        "activeUsers": 12,
+        "newUsers": 3,
+        "userEngagementDuration": 11079
+      },
+      "April": {
+        "activeUsers": 5,
+        "newUsers": 0,
+        "userEngagementDuration": 7895
+      },
+      "May": { "activeUsers": 0, "newUsers": 0, "userEngagementDuration": 0 },
+      "June": { "activeUsers": 0, "newUsers": 0, "userEngagementDuration": 0 },
+      "July": { "activeUsers": 0, "newUsers": 0, "userEngagementDuration": 0 },
+      "August": {
+        "activeUsers": 0,
+        "newUsers": 0,
+        "userEngagementDuration": 0
+      },
+      "September": {
+        "activeUsers": 0,
+        "newUsers": 0,
+        "userEngagementDuration": 0
+      },
+      "October": {
+        "activeUsers": 0,
+        "newUsers": 0,
+        "userEngagementDuration": 0
+      },
+      "November": {
+        "activeUsers": 0,
+        "newUsers": 0,
+        "userEngagementDuration": 0
+      },
+      "December": {
+        "activeUsers": 0,
+        "newUsers": 0,
+        "userEngagementDuration": 0
+      }
+    },
+    "r2": {
+      "Dashboard": {
+        "activeUsers": 22,
+        "sessions": 63,
+        "userEngagementDuration": 1843,
+        "screenPageViews": 125,
+        "bounceRate": 0.8891129032258065,
+        "eventCount": 1235,
+        "pageTitleCount": 2
+      },
+      "Overview": {
+        "activeUsers": 10,
+        "sessions": 10,
+        "userEngagementDuration": 24,
+        "screenPageViews": 8,
+        "bounceRate": 0.875,
+        "eventCount": 130,
+        "pageTitleCount": 4
+      },
+      "Slide Builder": {
+        "activeUsers": 18,
+        "sessions": 27,
+        "userEngagementDuration": 251,
+        "screenPageViews": 39,
+        "bounceRate": 1,
+        "eventCount": 94,
+        "pageTitleCount": 5
+      },
+      "My Presentation": {
+        "activeUsers": 4,
+        "sessions": 17,
+        "userEngagementDuration": 156,
+        "screenPageViews": 19,
+        "bounceRate": 0.8823529411764706,
+        "eventCount": 382,
+        "pageTitleCount": 1
+      },
+      "Shared Presentation": {
+        "activeUsers": 2,
+        "sessions": 3,
+        "userEngagementDuration": 0,
+        "screenPageViews": 4,
+        "bounceRate": 1,
+        "eventCount": 4,
+        "pageTitleCount": 1
+      },
+      "Settings": {
+        "activeUsers": 7,
+        "sessions": 10,
+        "userEngagementDuration": 11,
+        "screenPageViews": 48,
+        "bounceRate": 1,
+        "eventCount": 48,
+        "pageTitleCount": 3
+      },
+      "Published": {
+        "activeUsers": 2,
+        "sessions": 5,
+        "userEngagementDuration": 13,
+        "screenPageViews": 8,
+        "bounceRate": 1,
+        "eventCount": 36,
+        "pageTitleCount": 2
+      },
+      "Support": {
+        "activeUsers": 4,
+        "sessions": 6,
+        "userEngagementDuration": 3,
+        "screenPageViews": 8,
+        "bounceRate": 1,
+        "eventCount": 8,
+        "pageTitleCount": 2
+      },
+      "Update Presentation": {
+        "activeUsers": 12,
+        "sessions": 53,
+        "userEngagementDuration": 12435,
+        "screenPageViews": 443,
+        "bounceRate": 0.8511396011396011,
+        "eventCount": 3992,
+        "pageTitleCount": 2
+      }
+    }
+  }
+}

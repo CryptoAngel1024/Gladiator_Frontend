@@ -1,0 +1,10 @@
+{
+  "hyperLink": "string",
+  "linkName": "string",
+  "linkType": "FOR_COMMUNITY_CENTER",
+  "passCode": "string",
+  "presentationId": "33ffaa88-8899-2452-b3fc-22cc996633ff",
+  "slideInfoIds": ["33ffaa88-8899-2452-b3fc-22cc996633ff"],
+  "viewCount": 0,
+  "id": "linkId"
+}

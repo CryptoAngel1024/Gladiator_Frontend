@@ -1,0 +1,63 @@
+{
+  "customerUcn": "",
+  "customerAddress": "",
+  "classOfTr3000": { "selection": "" },
+  "ascJourney": "",
+  "onWinGrowServeList": { "selection": "" },
+  "ownershipStructure": {
+    "physicianOwned": "",
+    "hospitalOwned": "",
+    "mgmtGroupOwned": "",
+    "medicare": "",
+    "private": ""
+  },
+  "hospital": "",
+  "ascSpeciality": "",
+  "contractInPlace": {
+    "jointReconstuction": "",
+    "spine": "",
+    "sportsMedicine": "",
+    "traumaAndExtremities": "",
+    "help": ""
+  },
+  "ownerShipAndBoard": {
+    "ownership": [
+      { "title": "HOSPITAL", "amount": "", "names": "" },
+      { "title": "MANAGEMENT COMPANY / CHAIN", "amount": "", "names": "" },
+      { "title": "PHYSICIANS", "amount": "", "names": "" }
+    ],
+    "board": [
+      { "title": "NUMBER OF SEATS ON THE BOARD ?", "structure": "" },
+      { "title": "WHO HOLDS THE MAJORITY ?", "structure": "" },
+      { "title": "WHO IS THE ANESTHESIA GROUP ?", "structure": "" }
+    ],
+    "specialities": [
+      {
+        "title": "JOINT RECONSTRUCTION",
+        "number": "",
+        "names": "",
+        "votingMembers": ""
+      },
+      {
+        "title": "UPPER EXTREMITY",
+        "number": "",
+        "names": "",
+        "votingMembers": ""
+      },
+      {
+        "title": "FOOT & ANKLE / PODIATRY",
+        "number": "",
+        "names": "",
+        "votingMembers": ""
+      },
+      {
+        "title": "SURGICAL SPORTS",
+        "number": "",
+        "names": "",
+        "votingMembers": ""
+      },
+      { "title": "SPINE", "number": "", "names": "", "votingMembers": "" },
+      { "title": "OTHER", "number": "", "names": "", "votingMembers": "" }
+    ]
+  }
+}

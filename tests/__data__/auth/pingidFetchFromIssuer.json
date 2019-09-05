@@ -1,0 +1,6 @@
+{
+  "authorizationEndpoint": "https://fedlogin.jnj.com/as/authorization.oauth2",
+  "tokenEndpoint": "https://fedlogin.jnj.com/as/token.oauth2",
+  "revocationEndpoint": "https://fedlogin.jnj.com/as/revoke_token.oauth2",
+  "userInfoEndpoint": "https://fedlogin.jnj.com/idp/userinfo.openid"
+}

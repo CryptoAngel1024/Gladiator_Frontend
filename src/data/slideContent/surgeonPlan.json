@@ -1,0 +1,18 @@
+{
+  "Total available trauma business in hospital": 0,
+  "doctors": [
+    {
+      "Doctors": "Surgeon Name",
+      "Estimated current business with DePuy Synthes": "Input Current Business with DPS",
+      "Estimated current estimate $ of business with DePuy Synthes": 0,
+      "Estimated current estimate % of business with DePuy Synthes": 0,
+      "Estimated current business outside DePuy Synthes": "Input Current Business Outside DPS",
+      "Estimated current estimate $ of business outside DePuy Synthes": 0,
+      "Estimated current estimate % of business outside DePuy Synthes": 0,
+      "Estimated competitor business to swith to DePuy Synthes": "Input Expected Business",
+      "Estimated $ of competitor business to switch to DePuy Synthes": 0,
+      "DPS team feedback from Doc": "Input Feedback",
+      "Estimate $ conversion": 0
+    }
+  ]
+}
