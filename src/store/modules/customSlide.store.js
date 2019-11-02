@@ -40,10 +40,10 @@ const emptyCustomeSlide = () => ({
 })
 
 export default {
-  // state: () => ({
-  //   customSlides: [],
-  //   customSlideToCreate: emptyCustomeSlide(),
-  // }),
+  state: () => ({
+    customSlides: [],
+    customSlideToCreate: emptyCustomeSlide(),
+  }),
   getters: {
     allCustomSlides(state) {
       return [...state.customSlides].sort((slide1, slide2) =>
