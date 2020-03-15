@@ -5,13 +5,13 @@ import {
 } from '@/api/pingIdAuth.js'
 import { gaEvent } from '@/utils/GA_Event.js'
 
-// const getDefaultState = () => {
-//   return {
-//     status: '', // posibble values: LOGGED_OUT, LOGGED_IN, LOADING, ERROR
-//     userDetail: {}, // current
-//     authResponse: {},
-//   }
-// }
+const getDefaultState = () => {
+  return {
+    status: '', // posibble values: LOGGED_OUT, LOGGED_IN, LOADING, ERROR
+    userDetail: {}, // current
+    authResponse: {},
+  }
+}
 export default {
   state: () => ({
     status: '', // posibble values: LOGGED_OUT, LOGGED_IN, LOADING, ERROR
