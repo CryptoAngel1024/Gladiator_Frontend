@@ -35,17 +35,17 @@ export default {
       return state.userDetail?.email || authenticatedUserLocalStorage()?.email
     },
 
-    // status(state) {
-    //   return state.status
-    // },
+    status(state) {
+      return state.status
+    },
 
-    // authResponse(state) {
-    //   return state.authResponse
-    // },
+    authResponse(state) {
+      return state.authResponse
+    },
 
-    // s3LastUploadedPath(state) {
-    //   return state.s3LastUploadedPath
-    // },
+    s3LastUploadedPath(state) {
+      return state.s3LastUploadedPath
+    },
   },
 
   mutations: {
