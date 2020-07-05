@@ -56,17 +56,17 @@ export default {
       state.setUser = payload
     },
 
-    // setStatus(state, payload) {
-    //   state.status = payload
-    // },
+    setStatus(state, payload) {
+      state.status = payload
+    },
 
-    // resetState(state) {
-    //   Object.assign(state, getDefaultState())
-    // },
+    resetState(state) {
+      Object.assign(state, getDefaultState())
+    },
 
-    // setAuthResponse(state, payload) {
-    //   state.authResponse = payload
-    // },
+    setAuthResponse(state, payload) {
+      state.authResponse = payload
+    },
 
     setS3LastUploadedPath(state, url) {
       state.s3LastUploadedPath = url
