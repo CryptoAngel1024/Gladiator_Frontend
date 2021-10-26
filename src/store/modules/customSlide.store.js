@@ -134,22 +134,22 @@ export default {
         }
       }
 
-      if (isCustomSlideToCreate) {
-        state.customSlideToCreate = {
-          ...state.customSlideToCreate,
-          ...clonedNewCustomSlide,
-        }
-      } else {
-        const customSlideIndex = state.customSlides.findIndex(
-          ({ slideInfoId }) => slideInfoId === newCustomSlide.slideInfoId,
-        )
-        if (customSlideIndex !== -1)
-          state.customSlides[customSlideIndex] = {
-            ...state.customSlides[customSlideIndex],
-            ...clonedNewCustomSlide,
-          }
-        else state.customSlides.push(clonedNewCustomSlide)
-      }
+      // if (isCustomSlideToCreate) {
+      //   state.customSlideToCreate = {
+      //     ...state.customSlideToCreate,
+      //     ...clonedNewCustomSlide,
+      //   }
+      // } else {
+      //   const customSlideIndex = state.customSlides.findIndex(
+      //     ({ slideInfoId }) => slideInfoId === newCustomSlide.slideInfoId,
+      //   )
+      //   if (customSlideIndex !== -1)
+      //     state.customSlides[customSlideIndex] = {
+      //       ...state.customSlides[customSlideIndex],
+      //       ...clonedNewCustomSlide,
+      //     }
+      //   else state.customSlides.push(clonedNewCustomSlide)
+      // }
     },
   },
   actions: {
