@@ -27,12 +27,12 @@ export default {
       const dept = getCurrentDepartment(rootGetters)
       return dept.toLowerCase()
     },
-    getIsLoading: (state) => {
-      return state.isLoading
-    },
-    getError: (state) => {
-      return state.error
-    },
+    // getIsLoading: (state) => {
+    //   return state.isLoading
+    // },
+    // getError: (state) => {
+    //   return state.error
+    // },
   },
   mutations: {
     setReportData(state, { department, reportData }) {
