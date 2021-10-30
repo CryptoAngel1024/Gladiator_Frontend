@@ -53,20 +53,20 @@ export default {
         event_label: 'GA-report-data',
       })
       commit('setIsLoading', { isLoading: true })
-      try {
-        const department = getters.getLowerCaseDepartment
-        const reportData = await getReport({ reportType, department })
-        commit('setReportData', { department, reportData })
-        commit('setIsLoading', { isLoading: false })
-        return { reportData }
-      } catch (err) {
-        console.error('Failed to fetch GA Report', err)
-        commit('setIsLoading', { isLoading: false })
-        commit('setError', {
-          error: `Error fetching GA report: ${err.message || err}`,
-        })
-        return { err }
-      }
+      // try {
+      //   const department = getters.getLowerCaseDepartment
+      //   const reportData = await getReport({ reportType, department })
+      //   commit('setReportData', { department, reportData })
+      //   commit('setIsLoading', { isLoading: false })
+      //   return { reportData }
+      // } catch (err) {
+      //   console.error('Failed to fetch GA Report', err)
+      //   commit('setIsLoading', { isLoading: false })
+      //   commit('setError', {
+      //     error: `Error fetching GA report: ${err.message || err}`,
+      //   })
+      //   return { err }
+      // }
     },
   },
 }
