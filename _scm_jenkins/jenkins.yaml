@@ -1,4 +1,4 @@
-- url: https://jenkins.eat.jnj.com/jadi-dev
+- url:
   createJobsFrom:
     - develop
     - feature/*
