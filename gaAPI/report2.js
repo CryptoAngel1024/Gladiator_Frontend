@@ -5,7 +5,7 @@
  * TODO(developer): Uncomment this variable and replace with your
  *   Google Analytics 4 property ID before running the sample.
  */
-const propertyId = 308253785
+const propertyId = 
 
 // Imports the Google Analytics Data API client library.
 const { BetaAnalyticsDataClient } = require('@google-analytics/data')

@@ -20,7 +20,7 @@ require('dotenv').config({
 // Create the S3 service object
 const s3 = new AWS.S3()
 
-const PING_ID_AUTH_URL = 'https://fedlogin.jnj.com/idp/userinfo.openid'
+const PING_ID_AUTH_URL = ''
 // itx-bvo-gladiator-cf-dev
 const myBucket = process.env.bucketname
 
