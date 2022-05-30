@@ -1,6 +1,5 @@
 # Gladiator Frontend Application
 
-## Documentation
 
 ### Pipeline Setup
 
