@@ -2,8 +2,6 @@
 
 ## Documentation
 
-JPM Docs are available at <https://sourcecode.jnj.com/pages/ASX-XENA/xena-training/main/browse/docs/#/130-Intro-to-JPM>
-
 ### Pipeline Setup
 
 1. Name of the Job - gladiator/Frontend
@@ -21,8 +19,6 @@ JPM Docs are available at <https://sourcecode.jnj.com/pages/ASX-XENA/xena-traini
    - Production branch: main
 
 ## Additional Documentation
-
-JPM Docs are available at https://sourcecode.jnj.com/pages/ASX-XENA/xena-training/main/browse/docs/#/130-Intro-to-JPM
 
 ---
 
@@ -70,14 +66,3 @@ Or
 npm run lint:fix
 ```
 
-## Steps to Login with Ping Id on Local Server
-
-when using Ping Id login option, ping federate is redirecting to callback api url `https://localhost/`
-. You can use Mod Header extension to redirect callback url to your hosted url path using these steps
-
-1. Install Mod Header extension for your browser using one of these links ( [Firefox](https://addons.mozilla.org/en-US/firefox/addon/modheader-firefox/) , [Chrome](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj?hl=en))
-2. Configure Mod Header to redirect from `https://localhost/` to your URL ( e.g `http://localhost:3000/`)
-
-![Alt text](/readme/modeheader1.png?raw=true 'Optional Title')
-
-![Alt text](/readme/modeheader2.png?raw=true 'Optional Title')
